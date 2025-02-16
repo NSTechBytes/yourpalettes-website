@@ -73,15 +73,24 @@ const Index = () => {
             <h2 className="text-3xl font-display font-bold mb-6 text-center sm:text-left">
               {activeCategory === "All" ? "All Palettes" : `${activeCategory} Palettes`}
             </h2>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
-              {filteredPalettes.map((palette) => (
-                <ColorPalette
-                  key={palette.name}
-                  colors={palette.colors}
-                  name={palette.name}
-                />
-              ))}
-            </div>
+            {filteredPalettes.length > 0 ? (
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
+                {filteredPalettes.map((palette) => (
+                  <ColorPalette
+                    key={palette.name}
+                    colors={palette.colors}
+                    name={palette.name}
+                  />
+                ))}
+              </div>
+            ) : (
+              <div className="text-center py-12">
+                <h3 className="text-xl font-medium text-muted-foreground mb-2">No palettes found</h3>
+                <p className="text-sm text-muted-foreground">
+                  Try adjusting your search or category filter
+                </p>
+              </div>
+            )}
           </section>
         </div>
       </main>
