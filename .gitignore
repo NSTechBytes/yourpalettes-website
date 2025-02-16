@@ -11,6 +11,7 @@ node_modules
 prompts
 dist
 dist-ssr
+test.json
 *.local
 
 # Editor directories and files

@@ -185282,5 +185282,6011 @@
             "#784639"
         ],
         "category": "Earthy"
+    },
+    {
+        "name": "Delicate Tundra",
+        "colors": [
+            "#E68656",
+            "#F94C24",
+            "#ADA6DE",
+            "#C97C59",
+            "#517E35"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Silky Lagoon",
+        "colors": [
+            "#77BE75",
+            "#4BAD32",
+            "#72D3A3",
+            "#6E3E62",
+            "#1719B1"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Silky Ember",
+        "colors": [
+            "#286430",
+            "#34D671",
+            "#90245D",
+            "#011E10",
+            "#2B66CD"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Shadowy Ember",
+        "colors": [
+            "#0A4F2B",
+            "#BA8BBC",
+            "#449494",
+            "#E84D4E",
+            "#54C74B"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Fiery Nebula",
+        "colors": [
+            "#C3436B",
+            "#B489C8",
+            "#196CC9",
+            "#490D7D",
+            "#BAC0F0"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Quirky Shadow",
+        "colors": [
+            "#2B4E45",
+            "#2663C2",
+            "#78ACB2",
+            "#E26E72",
+            "#C8EE42"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Brisk Tundra",
+        "colors": [
+            "#166E59",
+            "#408638",
+            "#9972C2",
+            "#69F6B9",
+            "#DBDE45"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Vigorous Aura",
+        "colors": [
+            "#62F162",
+            "#4DB57C",
+            "#94FC4E",
+            "#5ABEE3",
+            "#3E0A1F"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Brisk Nebula",
+        "colors": [
+            "#A2A724",
+            "#A57CEC",
+            "#867111",
+            "#94CC01",
+            "#ED202E"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Smooth Breeze",
+        "colors": [
+            "#329697",
+            "#41B8B9",
+            "#0F5139",
+            "#D4CDC8",
+            "#3114F6"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Electric Canyon",
+        "colors": [
+            "#DE7BA1",
+            "#6258B2",
+            "#D3768B",
+            "#A8D87D",
+            "#2E0A1B"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Polished Tundra",
+        "colors": [
+            "#65F0BA",
+            "#228009",
+            "#00CB22",
+            "#37E10A",
+            "#3B384F"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Magnetic Tide",
+        "colors": [
+            "#931ABE",
+            "#390038",
+            "#8DF4CC",
+            "#A9E669",
+            "#A30C5B"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Silky Equinox",
+        "colors": [
+            "#21A984",
+            "#4DEBF8",
+            "#AA36E5",
+            "#4FDBF6",
+            "#981C02"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Smooth Dawn",
+        "colors": [
+            "#BC93D6",
+            "#192FDE",
+            "#9E7066",
+            "#D21E3D",
+            "#7B7FC2"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Brisk Peak",
+        "colors": [
+            "#703FE3",
+            "#266BB9",
+            "#02FD0E",
+            "#64E7F4",
+            "#7EA61A"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Delicate Eclipse",
+        "colors": [
+            "#DFC808",
+            "#018F08",
+            "#FE8A6F",
+            "#C30E43",
+            "#45BA85"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Polished Grove",
+        "colors": [
+            "#8B8A71",
+            "#47DB4B",
+            "#D5567B",
+            "#F9963A",
+            "#51E989"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Mystic Frost",
+        "colors": [
+            "#447C89",
+            "#B48FC2",
+            "#BF46F7",
+            "#422BDB",
+            "#FBF78E"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Electric Oasis",
+        "colors": [
+            "#2314A2",
+            "#424697",
+            "#77D21B",
+            "#F75F72",
+            "#0E9C41"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Silky Aura",
+        "colors": [
+            "#0A9E13",
+            "#3C0D43",
+            "#856C9F",
+            "#210727",
+            "#D80D8C"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Shadowy Tide",
+        "colors": [
+            "#F32D03",
+            "#817A71",
+            "#B62E9B",
+            "#3107FD",
+            "#C4DF6C"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Magnetic Oasis",
+        "colors": [
+            "#8F6A42",
+            "#ED003B",
+            "#07E2F6",
+            "#A7AA7E",
+            "#31149D"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Shadowy Solstice",
+        "colors": [
+            "#8B094A",
+            "#8BD390",
+            "#A5894C",
+            "#E824DD",
+            "#6811EA"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Delicate Ocean",
+        "colors": [
+            "#E9CC48",
+            "#F5D72E",
+            "#30091A",
+            "#18EDB2",
+            "#DC6C73"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Mystic Crest",
+        "colors": [
+            "#1BE3FC",
+            "#7CB783",
+            "#C2CE26",
+            "#0099B0",
+            "#96D9F9"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Brisk Cloud",
+        "colors": [
+            "#A2D159",
+            "#B5DFFD",
+            "#211BDA",
+            "#FE32EE",
+            "#F350D3"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Shadowy Ripple",
+        "colors": [
+            "#0AB95B",
+            "#13D8C4",
+            "#F8C9C1",
+            "#2F4163",
+            "#74487B"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Magnetic Lagoon",
+        "colors": [
+            "#FD6255",
+            "#C6512E",
+            "#725415",
+            "#00EE81",
+            "#8A1D4A"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Quirky Ripple",
+        "colors": [
+            "#567B56",
+            "#D2D820",
+            "#58B97E",
+            "#C806E5",
+            "#6DA276"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Silky Brook",
+        "colors": [
+            "#C19B90",
+            "#822818",
+            "#6C401D",
+            "#79D006",
+            "#2B3909"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Polished Forest",
+        "colors": [
+            "#43E900",
+            "#F14BEE",
+            "#8C0B9D",
+            "#F19D23",
+            "#092C3A"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Polished Nebula",
+        "colors": [
+            "#4A26AC",
+            "#77DD32",
+            "#9793D0",
+            "#9E8E18",
+            "#0D2644"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Silky Wave",
+        "colors": [
+            "#59EA0C",
+            "#42AC32",
+            "#CE998B",
+            "#F022F7",
+            "#78DDFF"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Magnetic Grove",
+        "colors": [
+            "#63EC7C",
+            "#6D7E1C",
+            "#B672A4",
+            "#ED8A5D",
+            "#1969DA"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Playful Pulse",
+        "colors": [
+            "#02DC5D",
+            "#DA7189",
+            "#0AE6C1",
+            "#DA9841",
+            "#6428B2"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Quirky Peak",
+        "colors": [
+            "#A80952",
+            "#F7F8E8",
+            "#CC19DF",
+            "#1055AA",
+            "#FF8EE5"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Quirky Equinox",
+        "colors": [
+            "#85A867",
+            "#0C9704",
+            "#E3D832",
+            "#F3BEAF",
+            "#AB6D86"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Quirky Light",
+        "colors": [
+            "#E53D11",
+            "#7F3C3C",
+            "#332D38",
+            "#C1434E",
+            "#EA6EC8"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Delicate Tide",
+        "colors": [
+            "#3D2744",
+            "#ED5173",
+            "#5069BB",
+            "#307A05",
+            "#6FED5F"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Rustic Tundra",
+        "colors": [
+            "#4600D1",
+            "#C013EA",
+            "#3A7D0C",
+            "#A05685",
+            "#BD3D50"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Mystic Ripple",
+        "colors": [
+            "#6E1255",
+            "#69842A",
+            "#D370D7",
+            "#87B689",
+            "#AA0361"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Polished Glacier",
+        "colors": [
+            "#C3D69E",
+            "#E6D6D6",
+            "#634852",
+            "#4F3BB8",
+            "#83ECB6"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Mystic Tide",
+        "colors": [
+            "#4B9F70",
+            "#49363F",
+            "#D7E4C2",
+            "#F89B37",
+            "#C6180B"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Electric Shadow",
+        "colors": [
+            "#BF9570",
+            "#59650D",
+            "#426C59",
+            "#690B80",
+            "#18710F"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Smooth Sky",
+        "colors": [
+            "#AE716A",
+            "#1D7B36",
+            "#240BD3",
+            "#689D4A",
+            "#308BFD"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Quirky Storm",
+        "colors": [
+            "#ACE830",
+            "#CE22C2",
+            "#530FF1",
+            "#995930",
+            "#7373DD"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Electric Frost",
+        "colors": [
+            "#9016A9",
+            "#A94A00",
+            "#21A50F",
+            "#B52278",
+            "#8340E0"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Silky Gale",
+        "colors": [
+            "#1EA68C",
+            "#25319A",
+            "#E59692",
+            "#E7D797",
+            "#BD01B0"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Silky Grove",
+        "colors": [
+            "#8A6F47",
+            "#81B59D",
+            "#7948CA",
+            "#4619A7",
+            "#CC99CF"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Vigorous Summit",
+        "colors": [
+            "#E18A71",
+            "#AA4336",
+            "#3D6030",
+            "#5F3137",
+            "#2F9F68"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Vigorous Eclipse",
+        "colors": [
+            "#92069E",
+            "#29B655",
+            "#B50BDA",
+            "#D3972E",
+            "#881171"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Polished Solstice",
+        "colors": [
+            "#031AEE",
+            "#0C5A2B",
+            "#9048CA",
+            "#A9BA44",
+            "#0DE551"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Electric Zephyr",
+        "colors": [
+            "#CFAD9A",
+            "#AAD0AD",
+            "#8E2289",
+            "#B07BFD",
+            "#83D3F0"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Magnetic Dawn",
+        "colors": [
+            "#CF37F9",
+            "#9AC3B9",
+            "#83CF6F",
+            "#9827DB",
+            "#3414F2"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Mystic Flare",
+        "colors": [
+            "#882A01",
+            "#C37067",
+            "#3FCF72",
+            "#B17F5C",
+            "#BA2ACA"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Mystic Comet",
+        "colors": [
+            "#7CC406",
+            "#57DFE0",
+            "#6F093B",
+            "#B91837",
+            "#4C1C1E"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Electric Cloud",
+        "colors": [
+            "#6B5FB2",
+            "#484067",
+            "#EB9429",
+            "#E4FD79",
+            "#B24745"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Shadowy Wave",
+        "colors": [
+            "#7029B6",
+            "#E56D5C",
+            "#60C819",
+            "#E229C9",
+            "#283114"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Mystic Sky",
+        "colors": [
+            "#C459D4",
+            "#1E42B4",
+            "#20FBAC",
+            "#518F0E",
+            "#C112C9"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Silky Prism",
+        "colors": [
+            "#636DAE",
+            "#7DE391",
+            "#23C8F4",
+            "#0EA0AB",
+            "#FFB64F"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Mystic Brook",
+        "colors": [
+            "#F05C63",
+            "#FCBFBC",
+            "#454079",
+            "#C854C9",
+            "#6A2564"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Delicate Pulse",
+        "colors": [
+            "#10BAB5",
+            "#622A1C",
+            "#C01CA4",
+            "#489DB8",
+            "#BEEEF3"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Delicate Whisper",
+        "colors": [
+            "#D50ECD",
+            "#E23216",
+            "#98CC3B",
+            "#C9452C",
+            "#12A389"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Silky Canyon",
+        "colors": [
+            "#19099B",
+            "#46380C",
+            "#E4C0A1",
+            "#717D44",
+            "#CFDA92"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Smooth Solstice",
+        "colors": [
+            "#58CD2E",
+            "#0D8BE9",
+            "#96FD7F",
+            "#211233",
+            "#42FE5F"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Smooth Echo",
+        "colors": [
+            "#653979",
+            "#B07F79",
+            "#5B9D13",
+            "#834EE8",
+            "#3308A3"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Electric Whisper",
+        "colors": [
+            "#EE51BC",
+            "#8A9B6C",
+            "#09679F",
+            "#9FF761",
+            "#CADC72"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Vigorous Equinox",
+        "colors": [
+            "#713E99",
+            "#ADF293",
+            "#3F7251",
+            "#363D8E",
+            "#3DC774"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Smooth Mirage",
+        "colors": [
+            "#1D3029",
+            "#EC90A7",
+            "#D5E5BB",
+            "#B296BA",
+            "#BBFC56"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Silky Forest",
+        "colors": [
+            "#A30291",
+            "#501363",
+            "#B3791D",
+            "#2F2FF7",
+            "#13DB96"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Brisk Ripple",
+        "colors": [
+            "#F0A475",
+            "#83FFC7",
+            "#A1FA66",
+            "#0AA754",
+            "#AAE947"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Magnetic Nova",
+        "colors": [
+            "#023C67",
+            "#5FD13A",
+            "#F9CCA4",
+            "#0EEEB3",
+            "#09555F"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Polished Cascade",
+        "colors": [
+            "#2E43D0",
+            "#D0B912",
+            "#57FFCF",
+            "#95A0C0",
+            "#82AE37"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Brisk Frost",
+        "colors": [
+            "#F8C894",
+            "#C9CA49",
+            "#1C62B9",
+            "#B4F2D2",
+            "#C79477"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Magnetic Canyon",
+        "colors": [
+            "#7AF638",
+            "#90A67B",
+            "#91D40A",
+            "#42E7DC",
+            "#3FD7CB"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Silky Comet",
+        "colors": [
+            "#94881A",
+            "#6E9BD2",
+            "#4642EC",
+            "#13097F",
+            "#2F4136"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Quirky Crest",
+        "colors": [
+            "#4A75A3",
+            "#733796",
+            "#94175F",
+            "#A117D5",
+            "#E1A3A8"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Pastel Storm",
+        "colors": [
+            "#E03F6E",
+            "#AAC68B",
+            "#D582E2",
+            "#DBA853",
+            "#CDA912"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Polished Canyon",
+        "colors": [
+            "#3E54DC",
+            "#4078CB",
+            "#1B0EAF",
+            "#F3E491",
+            "#3A404C"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Electric Glacier",
+        "colors": [
+            "#E692F0",
+            "#E60D8B",
+            "#901394",
+            "#4E97B1",
+            "#95280B"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Brisk Shadow",
+        "colors": [
+            "#7E5A37",
+            "#CEF98F",
+            "#D5558F",
+            "#CB2A6D",
+            "#73557C"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Silky Whisper",
+        "colors": [
+            "#5043A1",
+            "#EB754F",
+            "#2D7775",
+            "#BF8EAC",
+            "#195BAE"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Shadowy Glacier",
+        "colors": [
+            "#7C821F",
+            "#BFE321",
+            "#F937CC",
+            "#DF69CF",
+            "#11F56B"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Quirky Lagoon",
+        "colors": [
+            "#DEA1B4",
+            "#6998F1",
+            "#723CD6",
+            "#C86DDF",
+            "#2B0A70"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Electric Grove",
+        "colors": [
+            "#54EE22",
+            "#1C52CE",
+            "#06CBDC",
+            "#D059CD",
+            "#F7371B"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Ethereal Glacier",
+        "colors": [
+            "#2426E2",
+            "#C23F55",
+            "#77FC25",
+            "#19E2FC",
+            "#990F34"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Silky Breeze",
+        "colors": [
+            "#D80DA9",
+            "#3F7D55",
+            "#DD41E1",
+            "#2E4122",
+            "#52BB56"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Quirky Comet",
+        "colors": [
+            "#8CB48C",
+            "#847194",
+            "#B66535",
+            "#FC3CD4",
+            "#9C948B"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Quirky Summit",
+        "colors": [
+            "#9A0042",
+            "#02595C",
+            "#9FE029",
+            "#96EE7A",
+            "#DB89DD"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Quirky Ember",
+        "colors": [
+            "#C23CAF",
+            "#CF317A",
+            "#433CF9",
+            "#CB18D3",
+            "#55E1E5"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Quirky Echo",
+        "colors": [
+            "#EF8F18",
+            "#EA5894",
+            "#EDA0B3",
+            "#B23FD5",
+            "#11C150"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Polished Whisper",
+        "colors": [
+            "#C966B3",
+            "#A3B13E",
+            "#6F99A3",
+            "#4EE5A8",
+            "#9EC095"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Mystic Equinox",
+        "colors": [
+            "#20DFC6",
+            "#EF91C0",
+            "#3AE8C4",
+            "#36AA53",
+            "#9A2103"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Shadowy Lagoon",
+        "colors": [
+            "#ACCD21",
+            "#25B346",
+            "#70C715",
+            "#F99E15",
+            "#EB5435"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Vigorous Echo",
+        "colors": [
+            "#00F7D6",
+            "#28DA3D",
+            "#CB6AE9",
+            "#5093EC",
+            "#381143"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Mystic Nebula",
+        "colors": [
+            "#7DC9FE",
+            "#107CD5",
+            "#ED2904",
+            "#E234D7",
+            "#49CD07"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Smooth Flare",
+        "colors": [
+            "#782005",
+            "#C8892E",
+            "#30C224",
+            "#F244FA",
+            "#743D11"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Silky Crest",
+        "colors": [
+            "#5B2D1E",
+            "#00DBC3",
+            "#812C52",
+            "#E95428",
+            "#13DE66"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Magnetic Horizon",
+        "colors": [
+            "#3DE2E1",
+            "#5A8F8C",
+            "#F1E205",
+            "#3851FC",
+            "#F5F340"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Vigorous Nova",
+        "colors": [
+            "#491E56",
+            "#AB443D",
+            "#D84C5F",
+            "#91913E",
+            "#5A77FE"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Quirky Twilight",
+        "colors": [
+            "#32C4AB",
+            "#DEE5FA",
+            "#3B0F2B",
+            "#A543A2",
+            "#A17BE7"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Shadowy Tundra",
+        "colors": [
+            "#48CD74",
+            "#8EC67B",
+            "#D760B9",
+            "#8D7816",
+            "#0369F2"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Shadowy Prism",
+        "colors": [
+            "#FC6F1F",
+            "#746C34",
+            "#3832AE",
+            "#E9B043",
+            "#27E494"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Electric Horizon",
+        "colors": [
+            "#94B61A",
+            "#6F10A7",
+            "#768E57",
+            "#7F881F",
+            "#2724E9"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Smooth Grove",
+        "colors": [
+            "#3CAC21",
+            "#C53127",
+            "#606FF1",
+            "#560AA9",
+            "#443238"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Delicate Galaxy",
+        "colors": [
+            "#201AED",
+            "#D3C001",
+            "#28E131",
+            "#243AB6",
+            "#3E8524"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Magnetic Twilight",
+        "colors": [
+            "#478B58",
+            "#8A1843",
+            "#EF742B",
+            "#5882F7",
+            "#F37650"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Polished Zephyr",
+        "colors": [
+            "#FF2ED8",
+            "#C9F7CF",
+            "#17916B",
+            "#7FC2E2",
+            "#C6080E"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Electric Summit",
+        "colors": [
+            "#D2BD8D",
+            "#255068",
+            "#965464",
+            "#8235C4",
+            "#D47976"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Polished Blaze",
+        "colors": [
+            "#8CA32F",
+            "#764B15",
+            "#11314B",
+            "#F48C5B",
+            "#5899CF"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Delicate Sky",
+        "colors": [
+            "#C62777",
+            "#04211C",
+            "#4AE9AA",
+            "#36E96C",
+            "#6D6ABF"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Shadowy Crest",
+        "colors": [
+            "#57AAC7",
+            "#02268A",
+            "#29BA66",
+            "#2D99B4",
+            "#3FA6B2"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Vigorous Prism",
+        "colors": [
+            "#4E8AC1",
+            "#F06DDD",
+            "#90D4EE",
+            "#D70BA0",
+            "#DC89AE"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Vigorous Whisper",
+        "colors": [
+            "#AFAC21",
+            "#881295",
+            "#F65E33",
+            "#484B66",
+            "#9D1938"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Brisk Wave",
+        "colors": [
+            "#F18526",
+            "#15ECD1",
+            "#79487A",
+            "#1A1654",
+            "#DEDB11"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Delicate Ember",
+        "colors": [
+            "#DC8F47",
+            "#312C0C",
+            "#EC88C4",
+            "#D4DCA0",
+            "#964514"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Magnetic Ripple",
+        "colors": [
+            "#51A5DC",
+            "#8C8F8C",
+            "#465822",
+            "#C07BE0",
+            "#1B03F7"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Magnetic Sky",
+        "colors": [
+            "#9F946A",
+            "#A65166",
+            "#F48F16",
+            "#A859E8",
+            "#48F642"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Vigorous Breeze",
+        "colors": [
+            "#6F9F3C",
+            "#9DFEE0",
+            "#650E62",
+            "#0AAC34",
+            "#6C355A"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Polished Light",
+        "colors": [
+            "#5658F6",
+            "#DE69FC",
+            "#511B36",
+            "#70344B",
+            "#B453CE"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Shadowy Mist",
+        "colors": [
+            "#C005EB",
+            "#B178ED",
+            "#B18B74",
+            "#24E966",
+            "#97ECFC"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Silky Galaxy",
+        "colors": [
+            "#E91EFE",
+            "#7C3669",
+            "#FD6FA1",
+            "#813B1F",
+            "#3E176F"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Smooth Dusk",
+        "colors": [
+            "#7C804C",
+            "#D2C9EB",
+            "#753EF9",
+            "#3C55A2",
+            "#17CE6E"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Silky Sky",
+        "colors": [
+            "#0C82C3",
+            "#1670B3",
+            "#18E386",
+            "#935D97",
+            "#122E76"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Quirky Zephyr",
+        "colors": [
+            "#818F04",
+            "#A21273",
+            "#1BC4E7",
+            "#844A56",
+            "#15BCB2"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Vigorous Light",
+        "colors": [
+            "#377876",
+            "#545C1F",
+            "#86757E",
+            "#00C4E0",
+            "#0A88F4"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Brisk Grove",
+        "colors": [
+            "#FBE2E4",
+            "#501303",
+            "#E785B8",
+            "#B6F718",
+            "#1DDC99"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Enchanted Sky",
+        "colors": [
+            "#F8F45A",
+            "#8B1409",
+            "#56BF08",
+            "#971C55",
+            "#5EF420"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Polished Tide",
+        "colors": [
+            "#5C8F1C",
+            "#BC489F",
+            "#D9B4DE",
+            "#F1F3AB",
+            "#5A1610"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Shadowy Grove",
+        "colors": [
+            "#8DE098",
+            "#B5656D",
+            "#838FF2",
+            "#D9822F",
+            "#7AD888"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Magnetic Dream",
+        "colors": [
+            "#A29DB0",
+            "#C247AD",
+            "#499EFB",
+            "#2C3F71",
+            "#406B90"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Silky Mirage",
+        "colors": [
+            "#9DC921",
+            "#4EB65A",
+            "#91E05C",
+            "#480F66",
+            "#37115B"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Delicate Breeze",
+        "colors": [
+            "#6834B5",
+            "#FC13E6",
+            "#CC89F4",
+            "#E12C5B",
+            "#A7EEFC"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Silky Nebula",
+        "colors": [
+            "#0FAF59",
+            "#E30A72",
+            "#E93508",
+            "#A5AFEB",
+            "#06C78D"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Shadowy Equinox",
+        "colors": [
+            "#36E6D1",
+            "#5551D6",
+            "#96E088",
+            "#B4739F",
+            "#E47827"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Smooth Cascade",
+        "colors": [
+            "#25840A",
+            "#7AB767",
+            "#C7C35D",
+            "#9FBCB3",
+            "#296816"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Delicate Brook",
+        "colors": [
+            "#9B9A68",
+            "#FF96E7",
+            "#E00F1B",
+            "#B0582F",
+            "#F82DBE"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Vigorous Brook",
+        "colors": [
+            "#4C8752",
+            "#789935",
+            "#D6FCA8",
+            "#37DF3F",
+            "#3EBC7D"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Smooth Ocean",
+        "colors": [
+            "#39C1E3",
+            "#061E8F",
+            "#C0D0CB",
+            "#AA3674",
+            "#8AF7B0"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Polished Peak",
+        "colors": [
+            "#A0670F",
+            "#E53DFC",
+            "#D6FA1B",
+            "#34DE63",
+            "#FC0B72"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Delicate Shadow",
+        "colors": [
+            "#0294C6",
+            "#B76D77",
+            "#4B29BA",
+            "#F111B9",
+            "#EF57DB"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Shadowy Aura",
+        "colors": [
+            "#C9E8A8",
+            "#73862C",
+            "#23DF97",
+            "#EE9936",
+            "#DBD0B2"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Silky Dream",
+        "colors": [
+            "#301410",
+            "#5B2783",
+            "#D0F467",
+            "#E1198F",
+            "#0D6AE4"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Smooth Nova",
+        "colors": [
+            "#76D689",
+            "#328384",
+            "#5FDBFF",
+            "#C5BAE8",
+            "#885CF8"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Magnetic Light",
+        "colors": [
+            "#317E79",
+            "#3C9F94",
+            "#0A57F8",
+            "#985CCA",
+            "#51B8F9"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Polished Mirage",
+        "colors": [
+            "#9BA660",
+            "#798537",
+            "#DF5C7E",
+            "#BD7354",
+            "#152452"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Vigorous Glacier",
+        "colors": [
+            "#F15E9D",
+            "#E89444",
+            "#E0289A",
+            "#9716EC",
+            "#6D13C8"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Shadowy Dream",
+        "colors": [
+            "#C4E789",
+            "#0AF567",
+            "#47CFFA",
+            "#33DFD8",
+            "#3C856C"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Smooth Blaze",
+        "colors": [
+            "#A65876",
+            "#2BDCCC",
+            "#F28FEE",
+            "#FC4468",
+            "#48A30F"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Polished Meadow",
+        "colors": [
+            "#8A7349",
+            "#9C9C96",
+            "#143CD1",
+            "#4C71BE",
+            "#F4FAB4"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Silky Tundra",
+        "colors": [
+            "#C7CE7D",
+            "#919FC9",
+            "#87F022",
+            "#B4BFE7",
+            "#D60B1D"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Smooth Glacier",
+        "colors": [
+            "#3EB4ED",
+            "#C62F62",
+            "#C67827",
+            "#EC73F2",
+            "#FA5E4F"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Silky Oasis",
+        "colors": [
+            "#2776A3",
+            "#976136",
+            "#D0E153",
+            "#F34A8F",
+            "#9609E8"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Mystic Solstice",
+        "colors": [
+            "#CD66D8",
+            "#40A353",
+            "#748864",
+            "#012568",
+            "#9C2453"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Brisk Forest",
+        "colors": [
+            "#B3837B",
+            "#F5F1C9",
+            "#7153DF",
+            "#77AE4E",
+            "#438912"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Polished Frost",
+        "colors": [
+            "#FE93F3",
+            "#C505CA",
+            "#BE8CE7",
+            "#849F31",
+            "#7EFFB5"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Smooth Tide",
+        "colors": [
+            "#004071",
+            "#00D69D",
+            "#212594",
+            "#50421F",
+            "#E62B98"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Vigorous Tempest",
+        "colors": [
+            "#4FEE76",
+            "#33E851",
+            "#867CF9",
+            "#B94A62",
+            "#F04D83"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Brisk Tempest",
+        "colors": [
+            "#DE8BC4",
+            "#4C27ED",
+            "#29C83F",
+            "#C9235B",
+            "#77790E"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Silky Vortex",
+        "colors": [
+            "#B0D3DB",
+            "#DAE208",
+            "#488F8A",
+            "#E60AA8",
+            "#92F506"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Quirky Ocean",
+        "colors": [
+            "#61FC01",
+            "#DAA56E",
+            "#67FB0B",
+            "#189E87",
+            "#84B986"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Silky Peak",
+        "colors": [
+            "#C15913",
+            "#1BF96F",
+            "#E93DE9",
+            "#7AAEA6",
+            "#803D92"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Delicate Echo",
+        "colors": [
+            "#202D0A",
+            "#DFD3B3",
+            "#E685F3",
+            "#23938E",
+            "#F76C6F"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Delicate Solstice",
+        "colors": [
+            "#4D09AE",
+            "#AD27A8",
+            "#1D0746",
+            "#3A9421",
+            "#A9C8DF"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Smooth Storm",
+        "colors": [
+            "#FD4449",
+            "#2FC5B0",
+            "#9577F4",
+            "#ECE379",
+            "#789432"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Vigorous Solstice",
+        "colors": [
+            "#52D386",
+            "#790E4E",
+            "#115434",
+            "#7CEEC5",
+            "#2CCBDA"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Polished Equinox",
+        "colors": [
+            "#96E5E4",
+            "#D2F04B",
+            "#50A917",
+            "#41D6CF",
+            "#D678E9"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Vigorous Mirage",
+        "colors": [
+            "#778B49",
+            "#05AC98",
+            "#47FE69",
+            "#7720D7",
+            "#CF0F61"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Smooth Ember",
+        "colors": [
+            "#C9C9E7",
+            "#C5A209",
+            "#6C56BA",
+            "#360DD3",
+            "#29CFFE"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Electric Tempest",
+        "colors": [
+            "#E5A0CE",
+            "#0E4E22",
+            "#CBD7A0",
+            "#4A2C17",
+            "#AF5203"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Silky Frost",
+        "colors": [
+            "#FE408B",
+            "#5ABFA6",
+            "#44AB56",
+            "#CE745C",
+            "#813694"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Polished Crest",
+        "colors": [
+            "#4074E5",
+            "#E4F95A",
+            "#A106D2",
+            "#60D03B",
+            "#F04132"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Delicate Glacier",
+        "colors": [
+            "#C9CE58",
+            "#1967CD",
+            "#E3533F",
+            "#F2CB80",
+            "#E9CBA1"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Mystic Prism",
+        "colors": [
+            "#69DB19",
+            "#1C8E86",
+            "#2F8C90",
+            "#C25C05",
+            "#090E25"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Vigorous Storm",
+        "colors": [
+            "#F4E4D9",
+            "#90B64B",
+            "#7C66B9",
+            "#8E7E43",
+            "#075C52"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Electric Solstice",
+        "colors": [
+            "#ACEC6E",
+            "#F10002",
+            "#A58CC3",
+            "#A3618C",
+            "#BE3DF8"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Shadowy Shadow",
+        "colors": [
+            "#65242D",
+            "#044DF1",
+            "#A46384",
+            "#B8FEC0",
+            "#8670B1"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Polished Mist",
+        "colors": [
+            "#D096C5",
+            "#C2BC57",
+            "#96ACC8",
+            "#63EDE7",
+            "#5D558A"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Shadowy Ocean",
+        "colors": [
+            "#72DEE6",
+            "#0A7576",
+            "#27AD24",
+            "#F99603",
+            "#ED0F1E"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Smooth Peak",
+        "colors": [
+            "#782B6A",
+            "#ECBA9C",
+            "#EA2F57",
+            "#C22561",
+            "#BA3595"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Quirky Glacier",
+        "colors": [
+            "#9F52F7",
+            "#84ADE0",
+            "#3F69C6",
+            "#014980",
+            "#67CC0E"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Smooth Eclipse",
+        "colors": [
+            "#83FA99",
+            "#08122E",
+            "#473FE1",
+            "#047A4B",
+            "#5287C1"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Brisk Prism",
+        "colors": [
+            "#4A5AB9",
+            "#9670B5",
+            "#D958EA",
+            "#DDAB95",
+            "#FD9C33"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Electric Comet",
+        "colors": [
+            "#774D07",
+            "#15CF3C",
+            "#BF9F8B",
+            "#FBD626",
+            "#7BF07F"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Quirky Grove",
+        "colors": [
+            "#944EC0",
+            "#08D7EB",
+            "#3A2DC5",
+            "#5793AA",
+            "#ED37BA"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Quirky Dream",
+        "colors": [
+            "#5AB683",
+            "#5E0F69",
+            "#B6C9C2",
+            "#D76471",
+            "#EB0BD2"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Electric Ripple",
+        "colors": [
+            "#F7E7D4",
+            "#516558",
+            "#03C44C",
+            "#CDDA12",
+            "#A3675B"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Quirky Meadow",
+        "colors": [
+            "#720ED5",
+            "#B396D5",
+            "#61225A",
+            "#7ED2D5",
+            "#17E9B1"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Mystic Cloud",
+        "colors": [
+            "#65D326",
+            "#8D467C",
+            "#552971",
+            "#B42785",
+            "#617CF7"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Silky Nova",
+        "colors": [
+            "#73B041",
+            "#B79BD8",
+            "#F4587D",
+            "#49EB54",
+            "#CF916D"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Electric Tundra",
+        "colors": [
+            "#BD1027",
+            "#ACD8C8",
+            "#805BEC",
+            "#04F174",
+            "#3CFBB3"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Shadowy Breeze",
+        "colors": [
+            "#080797",
+            "#A565A1",
+            "#B7F79D",
+            "#0B7CE3",
+            "#6CFE92"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Mystic Horizon",
+        "colors": [
+            "#FF5BD7",
+            "#DCB20C",
+            "#888A60",
+            "#83A649",
+            "#700BF5"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Vigorous Tundra",
+        "colors": [
+            "#65885F",
+            "#41BEA5",
+            "#0F203E",
+            "#2DD76E",
+            "#9EB76E"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Mystic Gale",
+        "colors": [
+            "#52EB79",
+            "#4AF24B",
+            "#2F4EDD",
+            "#8EB98E",
+            "#8770D2"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Delicate Vortex",
+        "colors": [
+            "#9540BE",
+            "#D152D2",
+            "#085AC9",
+            "#8955DA",
+            "#AA7CA6"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Delicate Mist",
+        "colors": [
+            "#901AAC",
+            "#6A3A4B",
+            "#AEC63B",
+            "#C44447",
+            "#DC53EE"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Electric Light",
+        "colors": [
+            "#5F237F",
+            "#1FB6B8",
+            "#56FEE3",
+            "#6EDF74",
+            "#012941"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Silky Mist",
+        "colors": [
+            "#64C3F5",
+            "#BFACD5",
+            "#BBFAFB",
+            "#54D9C9",
+            "#9ED7F1"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Delicate Tempest",
+        "colors": [
+            "#B06933",
+            "#C1596D",
+            "#C7D071",
+            "#9C346C",
+            "#524C0D"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Magnetic Comet",
+        "colors": [
+            "#97624B",
+            "#B7499C",
+            "#586B80",
+            "#454FB9",
+            "#BCBE6E"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Vigorous Canyon",
+        "colors": [
+            "#3E6602",
+            "#1FDE34",
+            "#53D24E",
+            "#4702B0",
+            "#6F480B"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Vigorous Ocean",
+        "colors": [
+            "#412D98",
+            "#545C09",
+            "#A30011",
+            "#D66C1C",
+            "#7341DD"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Vigorous Twilight",
+        "colors": [
+            "#5EE9FA",
+            "#F092F3",
+            "#217C31",
+            "#FE733A",
+            "#4BAFCD"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Crisp Gale",
+        "colors": [
+            "#DFB236",
+            "#B5AE7E",
+            "#D9FE69",
+            "#7713E3",
+            "#CD3176"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Majestic Echo",
+        "colors": [
+            "#21ACCB",
+            "#DFC854",
+            "#C4D613",
+            "#C88D6C",
+            "#1CB004"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Shadowy Meadow",
+        "colors": [
+            "#164E06",
+            "#EEF6B9",
+            "#09B20A",
+            "#9883AB",
+            "#855203"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Magnetic Summit",
+        "colors": [
+            "#BD283C",
+            "#36E3BA",
+            "#E6BD21",
+            "#3F30CE",
+            "#5A41AC"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Electric Lagoon",
+        "colors": [
+            "#805231",
+            "#B22467",
+            "#736E73",
+            "#8896A1",
+            "#3C2857"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Polished Sky",
+        "colors": [
+            "#2B4A8F",
+            "#5A2836",
+            "#97FA1E",
+            "#AB1334",
+            "#0299E4"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Delicate Dawn",
+        "colors": [
+            "#F47B3B",
+            "#0617A4",
+            "#A1FFBF",
+            "#B6DE85",
+            "#BFF9C6"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Vigorous Frost",
+        "colors": [
+            "#E7BB6D",
+            "#11B727",
+            "#4B4FA6",
+            "#F118CD",
+            "#C29D5B"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Magnetic Tundra",
+        "colors": [
+            "#E7583E",
+            "#CC7733",
+            "#C477C9",
+            "#375A29",
+            "#694EC4"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Shadowy Vortex",
+        "colors": [
+            "#A9F83E",
+            "#8DCF68",
+            "#F1A022",
+            "#3429D3",
+            "#7C5DC6"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Magnetic Vortex",
+        "colors": [
+            "#02C7A0",
+            "#37D5C7",
+            "#ECDA25",
+            "#28884F",
+            "#EA8FE0"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Quirky Oasis",
+        "colors": [
+            "#F5C7DE",
+            "#FF6037",
+            "#13D1AD",
+            "#DAE095",
+            "#F19AD1"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Brisk Summit",
+        "colors": [
+            "#FD6E89",
+            "#E2B46E",
+            "#6C8827",
+            "#A33E4D",
+            "#D41595"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Mystic Tempest",
+        "colors": [
+            "#64ED16",
+            "#D68611",
+            "#F5927C",
+            "#9F8FE4",
+            "#499D7C"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Silky Tide",
+        "colors": [
+            "#589F0B",
+            "#DDC85B",
+            "#B4E112",
+            "#046501",
+            "#602E28"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Shadowy Nova",
+        "colors": [
+            "#0EAAC6",
+            "#5EA55F",
+            "#B269B1",
+            "#FFB833",
+            "#B8374C"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Polished Vortex",
+        "colors": [
+            "#C24545",
+            "#3F4299",
+            "#78055B",
+            "#853262",
+            "#B8D5D9"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Quirky Pulse",
+        "colors": [
+            "#F4BAFB",
+            "#0E89B3",
+            "#A3EB2F",
+            "#7B14E7",
+            "#F8FAE4"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Polished Eclipse",
+        "colors": [
+            "#2210FE",
+            "#6C30AF",
+            "#4F4433",
+            "#3C7B54",
+            "#2C740A"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Electric Echo",
+        "colors": [
+            "#F214DC",
+            "#0D391E",
+            "#14A6F8",
+            "#0D7A39",
+            "#15FA52"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Vigorous Oasis",
+        "colors": [
+            "#E40E68",
+            "#FD5E83",
+            "#9F48F1",
+            "#A528E3",
+            "#F333BC"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Polished Summit",
+        "colors": [
+            "#3F4D7B",
+            "#B7230E",
+            "#358CE0",
+            "#F68D11",
+            "#53F29C"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Brisk Whisper",
+        "colors": [
+            "#984A34",
+            "#F0F32E",
+            "#E2FB15",
+            "#2DAAFA",
+            "#48311A"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Majestic Cloud",
+        "colors": [
+            "#CC8443",
+            "#CDD369",
+            "#F45779",
+            "#E98822",
+            "#D64F82"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Silky Eclipse",
+        "colors": [
+            "#E739A5",
+            "#217E67",
+            "#BBFB31",
+            "#61CD66",
+            "#7E6CC4"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Shadowy Light",
+        "colors": [
+            "#C38B7E",
+            "#B2BB2D",
+            "#6E7144",
+            "#E6A06A",
+            "#2E4883"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Quirky Eclipse",
+        "colors": [
+            "#212F93",
+            "#6EAD22",
+            "#C83456",
+            "#61395B",
+            "#5A9E8D"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Polished Dream",
+        "colors": [
+            "#AAA573",
+            "#E934AE",
+            "#CAF6D2",
+            "#BCD115",
+            "#F20954"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Magnetic Glacier",
+        "colors": [
+            "#9BE80E",
+            "#24549B",
+            "#0486F6",
+            "#72B501",
+            "#1D1D3D"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Silky Storm",
+        "colors": [
+            "#80669B",
+            "#53AD69",
+            "#36B6CE",
+            "#CC78E8",
+            "#3E94CB"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Brisk Vortex",
+        "colors": [
+            "#11E6C1",
+            "#1F7F2E",
+            "#77FBA6",
+            "#26909A",
+            "#FDC225"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Shadowy Cascade",
+        "colors": [
+            "#8910B5",
+            "#70D7AD",
+            "#E432CF",
+            "#18FC69",
+            "#D10A69"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Magnetic Gale",
+        "colors": [
+            "#76E7CD",
+            "#868C38",
+            "#A39B46",
+            "#4F0DAA",
+            "#BE3BAC"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Magnetic Breeze",
+        "colors": [
+            "#9E9122",
+            "#623D21",
+            "#CC61BE",
+            "#1FFAE2",
+            "#FFD00D"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Mystic Tundra",
+        "colors": [
+            "#64E8B9",
+            "#BDC2BB",
+            "#11178C",
+            "#5FF4AD",
+            "#E2F0C6"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Shadowy Dusk",
+        "colors": [
+            "#1BE502",
+            "#552715",
+            "#510B76",
+            "#EF1AB1",
+            "#1ED534"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Brisk Light",
+        "colors": [
+            "#9E5C6A",
+            "#ADBD42",
+            "#D6FC8B",
+            "#2F4870",
+            "#C53E10"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Quirky Blaze",
+        "colors": [
+            "#0644E3",
+            "#4C92F5",
+            "#90BBA5",
+            "#06BA53",
+            "#06D6D8"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Quirky Wave",
+        "colors": [
+            "#76C3F3",
+            "#48D70F",
+            "#68C300",
+            "#3828B8",
+            "#3A7F72"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Brisk Tide",
+        "colors": [
+            "#96F9ED",
+            "#FF3D1A",
+            "#B49DF3",
+            "#8BC3C8",
+            "#5ABCC9"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Smooth Aura",
+        "colors": [
+            "#E69C48",
+            "#DD1AA4",
+            "#CF65EB",
+            "#D8CD11",
+            "#2E1D26"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Vigorous Wave",
+        "colors": [
+            "#72D006",
+            "#D05F59",
+            "#054A79",
+            "#EDCCBD",
+            "#78B891"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Mystic Breeze",
+        "colors": [
+            "#F5984D",
+            "#6F2658",
+            "#462643",
+            "#E9DB2E",
+            "#9D4AF8"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Magnetic Ember",
+        "colors": [
+            "#EC8132",
+            "#884827",
+            "#1CDE24",
+            "#68A4C9",
+            "#94DCB2"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Shadowy Echo",
+        "colors": [
+            "#4240F3",
+            "#E36305",
+            "#61E2D8",
+            "#AA5558",
+            "#CF6E84"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Silky Dusk",
+        "colors": [
+            "#64FE8F",
+            "#7679CC",
+            "#914157",
+            "#2F4BA8",
+            "#DA463F"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Delicate Crest",
+        "colors": [
+            "#DCD857",
+            "#F42A74",
+            "#BF7576",
+            "#60EF6F",
+            "#025015"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Vigorous Dream",
+        "colors": [
+            "#E59C23",
+            "#2A3DCC",
+            "#177F5A",
+            "#6EAAE2",
+            "#3A5CDE"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Vigorous Dawn",
+        "colors": [
+            "#48B610",
+            "#E79C6E",
+            "#F9DA67",
+            "#7C7196",
+            "#61B182"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Delicate Meadow",
+        "colors": [
+            "#F88F0B",
+            "#7EECB4",
+            "#336260",
+            "#F8D0E9",
+            "#7C0D1C"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Quirky Forest",
+        "colors": [
+            "#4C7AC2",
+            "#2AFCA1",
+            "#EEDA92",
+            "#163F38",
+            "#BA9A79"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Polished Storm",
+        "colors": [
+            "#334E28",
+            "#6A4DD3",
+            "#3488E4",
+            "#639D14",
+            "#D2C909"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Polished Echo",
+        "colors": [
+            "#786638",
+            "#D8730B",
+            "#8AF40B",
+            "#FA4B7A",
+            "#3AD979"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Quirky Aura",
+        "colors": [
+            "#F75BC7",
+            "#7A38F7",
+            "#23D752",
+            "#64F06D",
+            "#8B6296"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Silky Dawn",
+        "colors": [
+            "#5493A3",
+            "#055963",
+            "#0174FB",
+            "#85ED09",
+            "#D1D2C0"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Magnetic Galaxy",
+        "colors": [
+            "#ABE149",
+            "#3E1EB1",
+            "#C2D66A",
+            "#A5350A",
+            "#E519F1"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Vigorous Dusk",
+        "colors": [
+            "#44EF6F",
+            "#6F4FA8",
+            "#DF798B",
+            "#A46B33",
+            "#5268A2"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Magnetic Solstice",
+        "colors": [
+            "#C03FFB",
+            "#928C5D",
+            "#995684",
+            "#1142BB",
+            "#807216"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Vigorous Mist",
+        "colors": [
+            "#B89FD4",
+            "#8091B9",
+            "#A3D6D2",
+            "#2213B1",
+            "#4BD352"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Electric Crest",
+        "colors": [
+            "#A7D3DA",
+            "#4827C0",
+            "#A26E1B",
+            "#2F236B",
+            "#72206B"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Silky Blaze",
+        "colors": [
+            "#CB9FC7",
+            "#D68292",
+            "#EDABEA",
+            "#3DE9B6",
+            "#A50AAC"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Quirky Mirage",
+        "colors": [
+            "#53A68D",
+            "#E1DF4D",
+            "#1861DA",
+            "#7BA0BB",
+            "#B1E2DE"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Quirky Tempest",
+        "colors": [
+            "#F46E92",
+            "#CDFA74",
+            "#6BE20B",
+            "#30237F",
+            "#6209C5"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Polished Dusk",
+        "colors": [
+            "#ED5100",
+            "#AD4FED",
+            "#FBB80B",
+            "#94CEFE",
+            "#8905E9"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Mystic Dawn",
+        "colors": [
+            "#A583E0",
+            "#9F389E",
+            "#81B105",
+            "#C7833A",
+            "#6ACCAB"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Mystic Whisper",
+        "colors": [
+            "#9CBF01",
+            "#E81C52",
+            "#EEF889",
+            "#6BBA26",
+            "#625E90"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Shadowy Comet",
+        "colors": [
+            "#029D52",
+            "#4850DC",
+            "#6291F5",
+            "#9B3AA5",
+            "#19C841"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Vigorous Lagoon",
+        "colors": [
+            "#085355",
+            "#2A00B0",
+            "#57E457",
+            "#7644C8",
+            "#32BA9D"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Shadowy Pulse",
+        "colors": [
+            "#A0FB73",
+            "#5ACADE",
+            "#0D3D94",
+            "#26670E",
+            "#A86E90"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Magnetic Flare",
+        "colors": [
+            "#335EC0",
+            "#8E5C7B",
+            "#9170CD",
+            "#1F01A4",
+            "#D4BEDC"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Shadowy Twilight",
+        "colors": [
+            "#8AEC7F",
+            "#1A8142",
+            "#3AFFB5",
+            "#955AF9",
+            "#FCB786"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Magnetic Cloud",
+        "colors": [
+            "#BF7449",
+            "#30DCCA",
+            "#C1905B",
+            "#2E855A",
+            "#7FED37"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Delicate Twilight",
+        "colors": [
+            "#C5BF95",
+            "#F6A449",
+            "#7D2CA2",
+            "#9DB46D",
+            "#E3ACA1"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Vigorous Crest",
+        "colors": [
+            "#C8A910",
+            "#92AC73",
+            "#EC711F",
+            "#2E6B36",
+            "#4E89B1"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Brisk Equinox",
+        "colors": [
+            "#F3D155",
+            "#157FC7",
+            "#864809",
+            "#6BE9B8",
+            "#51C8CE"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Smooth Meadow",
+        "colors": [
+            "#BCBEBF",
+            "#1CD419",
+            "#96660F",
+            "#71E899",
+            "#D6B8D3"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Magnetic Frost",
+        "colors": [
+            "#EF63C0",
+            "#7553E4",
+            "#3B7C71",
+            "#0790DE",
+            "#85890B"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Shadowy Nebula",
+        "colors": [
+            "#2EC096",
+            "#912EBB",
+            "#0C74EC",
+            "#6CA023",
+            "#D3E6BD"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Quirky Flare",
+        "colors": [
+            "#21D6FD",
+            "#FFFCE8",
+            "#0199A3",
+            "#B7FCB8",
+            "#316657"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Brisk Nova",
+        "colors": [
+            "#14D474",
+            "#B898E5",
+            "#85A101",
+            "#0C3057",
+            "#768F0C"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Polished Cloud",
+        "colors": [
+            "#3B72FA",
+            "#D794AE",
+            "#12E7F2",
+            "#9E7473",
+            "#278D2E"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Vigorous Zephyr",
+        "colors": [
+            "#21CA06",
+            "#9E1C64",
+            "#65484A",
+            "#017D31",
+            "#BD3EEF"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Delicate Comet",
+        "colors": [
+            "#918B95",
+            "#E4C0B3",
+            "#047C04",
+            "#66EAA7",
+            "#7E44BF"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Smooth Twilight",
+        "colors": [
+            "#95783F",
+            "#267897",
+            "#8646B3",
+            "#851638",
+            "#CEFE93"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Mystic Grove",
+        "colors": [
+            "#3AF674",
+            "#9506DE",
+            "#A654A2",
+            "#5E9BEB",
+            "#C08A82"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Delicate Peak",
+        "colors": [
+            "#FFD3A9",
+            "#94C2CC",
+            "#F3F9EE",
+            "#284E7F",
+            "#80400B"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Brisk Glacier",
+        "colors": [
+            "#3BECA9",
+            "#0D17E6",
+            "#3C6693",
+            "#A4664B",
+            "#EAD3D4"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Polished Aura",
+        "colors": [
+            "#04139A",
+            "#7B0F01",
+            "#01D7DE",
+            "#2264FF",
+            "#A5B12E"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Brisk Ember",
+        "colors": [
+            "#187A61",
+            "#1A7C56",
+            "#CE7072",
+            "#68CDCF",
+            "#ECDEA6"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Shadowy Storm",
+        "colors": [
+            "#9CADD7",
+            "#21F2D1",
+            "#4EC2CD",
+            "#F5D85A",
+            "#4A9626"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Vigorous Grove",
+        "colors": [
+            "#FB4272",
+            "#E121BC",
+            "#C2A2E1",
+            "#77640B",
+            "#E37CF8"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Delicate Equinox",
+        "colors": [
+            "#DB7851",
+            "#678E1C",
+            "#BE27A7",
+            "#01F7EC",
+            "#9D79BB"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Delicate Frost",
+        "colors": [
+            "#11DBAF",
+            "#ED637C",
+            "#A87EB5",
+            "#548F22",
+            "#D37882"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Magnetic Pulse",
+        "colors": [
+            "#2E53FE",
+            "#4D900D",
+            "#66A805",
+            "#A35FB0",
+            "#4C2460"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Vigorous Cascade",
+        "colors": [
+            "#D56FB0",
+            "#538705",
+            "#B68EA8",
+            "#42CE81",
+            "#8F4503"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Shadowy Zephyr",
+        "colors": [
+            "#3E7554",
+            "#ED673F",
+            "#CFE453",
+            "#A4D0A0",
+            "#28FECC"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Quirky Sky",
+        "colors": [
+            "#EDBB1B",
+            "#97FE7F",
+            "#AC036C",
+            "#48C3C0",
+            "#AB7EFE"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Brisk Eclipse",
+        "colors": [
+            "#40660E",
+            "#4476BA",
+            "#C121DC",
+            "#50CF8E",
+            "#5AFE55"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Vigorous Tide",
+        "colors": [
+            "#9864BE",
+            "#F4CE96",
+            "#45453B",
+            "#F34EC3",
+            "#7DF15B"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Smooth Zephyr",
+        "colors": [
+            "#3253FB",
+            "#0F907F",
+            "#BADAE7",
+            "#304DDE",
+            "#9AFC4A"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Smooth Gale",
+        "colors": [
+            "#B7F87F",
+            "#29D773",
+            "#5655AF",
+            "#20E2AC",
+            "#2A5927"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Vigorous Peak",
+        "colors": [
+            "#B9E886",
+            "#CE7F92",
+            "#DF242E",
+            "#E5A65C",
+            "#482AB2"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Mystic Oasis",
+        "colors": [
+            "#DA768D",
+            "#B4AA02",
+            "#BBFFA2",
+            "#F26A54",
+            "#9E09D5"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Silky Ripple",
+        "colors": [
+            "#5BE93D",
+            "#D0B081",
+            "#184441",
+            "#9694E0",
+            "#A190B7"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Electric Equinox",
+        "colors": [
+            "#D425CC",
+            "#34725C",
+            "#FE4681",
+            "#8C5325",
+            "#FF7F2D"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Magnetic Dusk",
+        "colors": [
+            "#139870",
+            "#3D6D15",
+            "#FF95DC",
+            "#4583BB",
+            "#B8F8DC"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Mystic Blaze",
+        "colors": [
+            "#FE8AD3",
+            "#D2C1B5",
+            "#E82B6B",
+            "#C2E60C",
+            "#9A8A3C"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Smooth Forest",
+        "colors": [
+            "#2D7431",
+            "#2AA012",
+            "#5303F1",
+            "#D365DC",
+            "#1A48A2"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Mystic Vortex",
+        "colors": [
+            "#1DDCA2",
+            "#BF4A48",
+            "#D80EF2",
+            "#280C99",
+            "#259311"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Brisk Comet",
+        "colors": [
+            "#61FE30",
+            "#9453FB",
+            "#B6836D",
+            "#E2C4C6",
+            "#97DBD0"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Brisk Lagoon",
+        "colors": [
+            "#FDBDC7",
+            "#CB87C5",
+            "#415090",
+            "#AE7275",
+            "#5F81EF"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Magnetic Eclipse",
+        "colors": [
+            "#1031A0",
+            "#E48B47",
+            "#19AAC1",
+            "#8E3D69",
+            "#5388A6"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Mystic Canyon",
+        "colors": [
+            "#4F5C3C",
+            "#0C540F",
+            "#4411FA",
+            "#A4DFFB",
+            "#203A51"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Delicate Horizon",
+        "colors": [
+            "#DC5DE9",
+            "#6EA8A3",
+            "#FEFFD3",
+            "#5D4155",
+            "#BBE36F"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Mystic Dream",
+        "colors": [
+            "#53CBDC",
+            "#C463E1",
+            "#F0E5BC",
+            "#75B5EE",
+            "#D182B5"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Magnetic Peak",
+        "colors": [
+            "#BEC3E7",
+            "#BB2260",
+            "#FEAECB",
+            "#CA20DA",
+            "#8213A0"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Brisk Ocean",
+        "colors": [
+            "#58E813",
+            "#3750E6",
+            "#E35E4E",
+            "#99277F",
+            "#B4A894"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Vigorous Shadow",
+        "colors": [
+            "#71BC7A",
+            "#EC9EB8",
+            "#6408DC",
+            "#267613",
+            "#2E09BB"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Smooth Light",
+        "colors": [
+            "#53C430",
+            "#BAA779",
+            "#368C2F",
+            "#5A832F",
+            "#DFEC18"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Polished Breeze",
+        "colors": [
+            "#9051AE",
+            "#65F977",
+            "#6FB803",
+            "#417F38",
+            "#C3488F"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Shadowy Cloud",
+        "colors": [
+            "#61E337",
+            "#7B846F",
+            "#B66714",
+            "#1A6D5D",
+            "#A25B9B"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Shadowy Blaze",
+        "colors": [
+            "#9161F9",
+            "#B8AD60",
+            "#9CAE5B",
+            "#52F06A",
+            "#3466FE"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Electric Ocean",
+        "colors": [
+            "#03FCD2",
+            "#BDF967",
+            "#B78E74",
+            "#8D6E56",
+            "#56B6A2"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Smooth Cloud",
+        "colors": [
+            "#9C8326",
+            "#23F8E2",
+            "#AE79EC",
+            "#1A88F5",
+            "#4B2F01"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Brisk Flare",
+        "colors": [
+            "#50260A",
+            "#773B6F",
+            "#E75244",
+            "#DD3CCE",
+            "#F21B5F"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Smooth Wave",
+        "colors": [
+            "#F0F55F",
+            "#CE8F0B",
+            "#323A26",
+            "#F99F5D",
+            "#C8B9AB"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Quirky Brook",
+        "colors": [
+            "#F0B27F",
+            "#0C3FD5",
+            "#3837BF",
+            "#80963D",
+            "#7C1D31"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Shadowy Galaxy",
+        "colors": [
+            "#45C8C2",
+            "#D7B482",
+            "#DE71B6",
+            "#D1DF8A",
+            "#1FEF72"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Vigorous Ripple",
+        "colors": [
+            "#49696E",
+            "#3D6415",
+            "#D7ABCF",
+            "#7110C9",
+            "#385518"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Brisk Crest",
+        "colors": [
+            "#1760AE",
+            "#F7B767",
+            "#D37A9F",
+            "#B56829",
+            "#B6688F"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Electric Peak",
+        "colors": [
+            "#206E5E",
+            "#792C11",
+            "#BD96FE",
+            "#DF2604",
+            "#364ECA"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Silky Solstice",
+        "colors": [
+            "#3DE344",
+            "#D5B48D",
+            "#9871C8",
+            "#7D2DB4",
+            "#7F53FC"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Majestic Dawn",
+        "colors": [
+            "#E35714",
+            "#B01BCE",
+            "#5B3FB6",
+            "#5049CA",
+            "#4FF4E5"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Brisk Pulse",
+        "colors": [
+            "#211DFB",
+            "#259817",
+            "#C7C1D0",
+            "#D841D9",
+            "#E1B640"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Polished Lagoon",
+        "colors": [
+            "#C39083",
+            "#D0EDE3",
+            "#A2EBE6",
+            "#1A00E3",
+            "#C0B45C"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Mystic Eclipse",
+        "colors": [
+            "#43CF7E",
+            "#345FE4",
+            "#99E919",
+            "#54001D",
+            "#26BFEE"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Magnetic Prism",
+        "colors": [
+            "#48FB63",
+            "#CA7869",
+            "#8942F9",
+            "#59EAD5",
+            "#FDCF48"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Smooth Mist",
+        "colors": [
+            "#50710B",
+            "#BF62A7",
+            "#3B2D16",
+            "#4D82D6",
+            "#26C4E6"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Quirky Galaxy",
+        "colors": [
+            "#681CEA",
+            "#E758D2",
+            "#E03C52",
+            "#A5E355",
+            "#CD22FB"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Mystic Ember",
+        "colors": [
+            "#37A973",
+            "#1EEE14",
+            "#15632E",
+            "#48B1DA",
+            "#EDE504"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Mystic Storm",
+        "colors": [
+            "#78A7AB",
+            "#C20CB1",
+            "#418330",
+            "#A22C5D",
+            "#DF9D47"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Magnetic Cascade",
+        "colors": [
+            "#C36809",
+            "#8191C6",
+            "#18DD72",
+            "#9E1D77",
+            "#BE13C6"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Shadowy Peak",
+        "colors": [
+            "#F6AE80",
+            "#1E10CA",
+            "#B58260",
+            "#F344F0",
+            "#540DB6"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Shadowy Flare",
+        "colors": [
+            "#2C25EC",
+            "#5C3B3C",
+            "#0BBC61",
+            "#8F5146",
+            "#360496"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Quirky Dawn",
+        "colors": [
+            "#9DB056",
+            "#DE1F93",
+            "#6E3835",
+            "#6016A4",
+            "#A69159"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Delicate Aura",
+        "colors": [
+            "#83E4E9",
+            "#6FDE01",
+            "#A8E33D",
+            "#A17E9B",
+            "#92FF1E"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Smooth Galaxy",
+        "colors": [
+            "#7C7CCE",
+            "#83F83B",
+            "#D80AF9",
+            "#827890",
+            "#0C1CC6"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Magnetic Echo",
+        "colors": [
+            "#10498E",
+            "#6A1F93",
+            "#72AD58",
+            "#30913E",
+            "#D872F4"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Vigorous Blaze",
+        "colors": [
+            "#B32D79",
+            "#850E88",
+            "#5DE301",
+            "#658B03",
+            "#0926E5"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Magnetic Forest",
+        "colors": [
+            "#C69EB7",
+            "#5D0F6D",
+            "#F772DC",
+            "#A81CE7",
+            "#BC2F07"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Polished Prism",
+        "colors": [
+            "#9FB32E",
+            "#5342EF",
+            "#15AE91",
+            "#E6C64D",
+            "#FC9544"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Electric Mist",
+        "colors": [
+            "#9FE77F",
+            "#70A9BD",
+            "#583A78",
+            "#AE1ABF",
+            "#5C81DC"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Silky Twilight",
+        "colors": [
+            "#45C334",
+            "#E31DC0",
+            "#753FF8",
+            "#1D30DD",
+            "#6D301C"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Brisk Brook",
+        "colors": [
+            "#506149",
+            "#11F52D",
+            "#548A4A",
+            "#9FA77D",
+            "#ECE718"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Electric Nebula",
+        "colors": [
+            "#22D63F",
+            "#41DA51",
+            "#E4F67D",
+            "#667EA0",
+            "#26239F"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Brisk Dawn",
+        "colors": [
+            "#AB3E23",
+            "#267FA3",
+            "#EFBCE8",
+            "#58587E",
+            "#48402D"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Shadowy Oasis",
+        "colors": [
+            "#1EC64D",
+            "#6811D5",
+            "#1AB074",
+            "#01CAD9",
+            "#8C7BC5"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Delicate Cloud",
+        "colors": [
+            "#5661A9",
+            "#880AA4",
+            "#B9D4EC",
+            "#95E0F0",
+            "#912F21"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Smooth Prism",
+        "colors": [
+            "#B81314",
+            "#917829",
+            "#A6C07A",
+            "#CA79B4",
+            "#26F794"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Electric Tide",
+        "colors": [
+            "#30EDF1",
+            "#40504C",
+            "#00E325",
+            "#AAB02B",
+            "#5EE813"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Shadowy Gale",
+        "colors": [
+            "#EA2159",
+            "#872CE0",
+            "#B6739A",
+            "#29137B",
+            "#FFF155"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Mystic Zephyr",
+        "colors": [
+            "#0FAC7F",
+            "#D93079",
+            "#97BCEB",
+            "#AF05BE",
+            "#BA6CE5"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Magnetic Mist",
+        "colors": [
+            "#FD1FBA",
+            "#3A35E8",
+            "#B0983D",
+            "#678E12",
+            "#6689D1"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Polished Galaxy",
+        "colors": [
+            "#886AC6",
+            "#66CC7C",
+            "#C5C260",
+            "#F01FAE",
+            "#2FDE48"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Silky Light",
+        "colors": [
+            "#C9A428",
+            "#D4D78C",
+            "#2B761F",
+            "#332BEA",
+            "#052952"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Delicate Cascade",
+        "colors": [
+            "#9682D2",
+            "#DAA903",
+            "#A08153",
+            "#BE6CE5",
+            "#495F13"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Electric Blaze",
+        "colors": [
+            "#52EB59",
+            "#43EE52",
+            "#7E9C97",
+            "#2C8D7F",
+            "#DE8069"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Delicate Blaze",
+        "colors": [
+            "#78DA3D",
+            "#C356C3",
+            "#8F1D92",
+            "#06AC14",
+            "#064E4A"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Vigorous Horizon",
+        "colors": [
+            "#C9EED0",
+            "#8B110D",
+            "#646A20",
+            "#9F1670",
+            "#57990D"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Delicate Light",
+        "colors": [
+            "#D4A207",
+            "#F29E76",
+            "#8157EE",
+            "#13F876",
+            "#FAC3F7"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Shadowy Horizon",
+        "colors": [
+            "#736A29",
+            "#DAC854",
+            "#9C90C3",
+            "#008AF0",
+            "#E898AA"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Electric Gale",
+        "colors": [
+            "#1CB719",
+            "#460F84",
+            "#16A281",
+            "#C5F2D5",
+            "#F048D2"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Brisk Dream",
+        "colors": [
+            "#2D0AEB",
+            "#B12831",
+            "#A9A5B0",
+            "#F9186F",
+            "#B8E0BA"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Delicate Gale",
+        "colors": [
+            "#F1C621",
+            "#AB9B02",
+            "#1FE750",
+            "#8A22D4",
+            "#5CD959"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Smooth Frost",
+        "colors": [
+            "#B61469",
+            "#B76681",
+            "#F723CE",
+            "#FEB6A3",
+            "#9B9C33"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Polished Horizon",
+        "colors": [
+            "#D59BB8",
+            "#19BB1B",
+            "#41FD83",
+            "#B82EDE",
+            "#5BE51F"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Electric Nova",
+        "colors": [
+            "#7CDC3A",
+            "#FA922E",
+            "#C9E7C3",
+            "#20EE9C",
+            "#8C17B1"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Brisk Sky",
+        "colors": [
+            "#B353CD",
+            "#C89907",
+            "#FF3A60",
+            "#D26700",
+            "#0CFC41"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Quirky Solstice",
+        "colors": [
+            "#6CFD93",
+            "#D4C4F6",
+            "#BF1D7D",
+            "#932810",
+            "#438EFF"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Quirky Prism",
+        "colors": [
+            "#8E32B4",
+            "#15AD36",
+            "#054859",
+            "#2C8893",
+            "#6B7857"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Polished Wave",
+        "colors": [
+            "#D89037",
+            "#A55F34",
+            "#7B6463",
+            "#2314BA",
+            "#EC2C44"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Polished Dawn",
+        "colors": [
+            "#E99322",
+            "#910833",
+            "#1D0FFD",
+            "#4037F4",
+            "#1DD712"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Electric Sky",
+        "colors": [
+            "#148311",
+            "#D76F2F",
+            "#877BB4",
+            "#94B2AD",
+            "#D4AEA9"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Shadowy Summit",
+        "colors": [
+            "#12C0C5",
+            "#11DAE2",
+            "#28DC3C",
+            "#0A22D5",
+            "#15BE6D"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Mystic Cascade",
+        "colors": [
+            "#F7ED2D",
+            "#3333B8",
+            "#BD3833",
+            "#C02F97",
+            "#0468F3"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Delicate Lagoon",
+        "colors": [
+            "#69D66E",
+            "#5986BE",
+            "#EA12EB",
+            "#49E15A",
+            "#C10253"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Smooth Nebula",
+        "colors": [
+            "#C35F98",
+            "#A80EC1",
+            "#D39E2E",
+            "#3D7343",
+            "#B3CDD7"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Brisk Meadow",
+        "colors": [
+            "#E3FD82",
+            "#29082F",
+            "#B6A5AD",
+            "#EEED94",
+            "#E06154"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Electric Storm",
+        "colors": [
+            "#4CCA8C",
+            "#48D2A2",
+            "#8BF22B",
+            "#2772A4",
+            "#BB1185"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Delicate Grove",
+        "colors": [
+            "#4810E7",
+            "#269F3C",
+            "#06373B",
+            "#885B2D",
+            "#532746"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Delicate Oasis",
+        "colors": [
+            "#E9A6C5",
+            "#CA1E62",
+            "#4760FE",
+            "#7D81DE",
+            "#020FE8"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Quirky Vortex",
+        "colors": [
+            "#1CF180",
+            "#32F237",
+            "#30A8FA",
+            "#252A09",
+            "#6FA6D5"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Smooth Dream",
+        "colors": [
+            "#A297B1",
+            "#A06E4E",
+            "#2AD0C9",
+            "#A12A2B",
+            "#F53266"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Magnetic Aura",
+        "colors": [
+            "#816ACF",
+            "#C1BE33",
+            "#741227",
+            "#25C12E",
+            "#07F223"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Quirky Dusk",
+        "colors": [
+            "#59CCEC",
+            "#0637F3",
+            "#8C6C68",
+            "#39BE41",
+            "#DB9A1F"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Brisk Solstice",
+        "colors": [
+            "#7E882C",
+            "#69648E",
+            "#A78BF9",
+            "#299E9D",
+            "#606B96"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Delicate Forest",
+        "colors": [
+            "#2C2AA2",
+            "#ABC702",
+            "#9DA917",
+            "#406C0A",
+            "#2CF8B2"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Silky Pulse",
+        "colors": [
+            "#8F796E",
+            "#A2091D",
+            "#53A028",
+            "#865DD3",
+            "#3BAB47"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Mystic Glacier",
+        "colors": [
+            "#99A016",
+            "#FF6346",
+            "#11D885",
+            "#4A1D80",
+            "#706A3E"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Smooth Tempest",
+        "colors": [
+            "#3199EE",
+            "#95F131",
+            "#EC6326",
+            "#924AC3",
+            "#7BEE37"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Polished Oasis",
+        "colors": [
+            "#D6F80C",
+            "#6D382F",
+            "#48A382",
+            "#F87702",
+            "#E476BA"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Magnetic Whisper",
+        "colors": [
+            "#EAC6C9",
+            "#AD1A45",
+            "#D8D057",
+            "#B89F9A",
+            "#5D6E4D"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Mystic Light",
+        "colors": [
+            "#97042B",
+            "#36FEB4",
+            "#A544F5",
+            "#50DD27",
+            "#4C45E0"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Brisk Gale",
+        "colors": [
+            "#221835",
+            "#E2CB2D",
+            "#A41221",
+            "#20D3DD",
+            "#511F36"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Polished Flare",
+        "colors": [
+            "#857AE8",
+            "#6AD56B",
+            "#A45D30",
+            "#CF6014",
+            "#D2CAE9"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Magnetic Crest",
+        "colors": [
+            "#7BA184",
+            "#EDD89B",
+            "#1E7D7C",
+            "#CD2211",
+            "#E44924"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Magnetic Equinox",
+        "colors": [
+            "#9923C8",
+            "#BD046A",
+            "#CA291B",
+            "#30F0DD",
+            "#C32418"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Shadowy Dawn",
+        "colors": [
+            "#D4BA9E",
+            "#418981",
+            "#864A97",
+            "#E48ACA",
+            "#10F72B"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Electric Prism",
+        "colors": [
+            "#B88D38",
+            "#F35D1C",
+            "#250860",
+            "#5BC892",
+            "#10A27B"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Silky Ocean",
+        "colors": [
+            "#A194F1",
+            "#FE247F",
+            "#7FCCC3",
+            "#91FC0D",
+            "#5730F0"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Silky Shadow",
+        "colors": [
+            "#2474D9",
+            "#3B8162",
+            "#C3648E",
+            "#0A97AC",
+            "#FF62D5"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Vigorous Galaxy",
+        "colors": [
+            "#F9A1E2",
+            "#70E384",
+            "#E61014",
+            "#3935EE",
+            "#E03B7C"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Fierce Summit",
+        "colors": [
+            "#983513",
+            "#2FC731",
+            "#F67932",
+            "#3E309A",
+            "#AAD42B"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Shadowy Canyon",
+        "colors": [
+            "#7F4C86",
+            "#C44696",
+            "#47ADAA",
+            "#FF3F7F",
+            "#D055A5"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Brisk Echo",
+        "colors": [
+            "#D9581D",
+            "#6A09B5",
+            "#D0EA3C",
+            "#9B6A86",
+            "#A2BC31"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Vigorous Pulse",
+        "colors": [
+            "#821471",
+            "#033681",
+            "#93D409",
+            "#87523A",
+            "#46D810"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Electric Galaxy",
+        "colors": [
+            "#360A54",
+            "#156250",
+            "#6CB275",
+            "#5182ED",
+            "#92FF86"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Vigorous Sky",
+        "colors": [
+            "#7B9DEB",
+            "#E35BD5",
+            "#8A4C25",
+            "#86D6E6",
+            "#200BA1"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Brisk Oasis",
+        "colors": [
+            "#8AE503",
+            "#032EEE",
+            "#2C44D5",
+            "#B118E3",
+            "#CA00A8"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Magnetic Storm",
+        "colors": [
+            "#560807",
+            "#C78F64",
+            "#285C56",
+            "#2FB78D",
+            "#2E5F5A"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Smooth Shadow",
+        "colors": [
+            "#095246",
+            "#FD6BD2",
+            "#8CCD99",
+            "#947311",
+            "#3D91F2"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Magnetic Ocean",
+        "colors": [
+            "#AD1BAE",
+            "#6736C2",
+            "#381F89",
+            "#9FD6C4",
+            "#24D2B3"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Silky Glacier",
+        "colors": [
+            "#3AD9CB",
+            "#5D0B11",
+            "#9E71AF",
+            "#0DC9B8",
+            "#50329F"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Brisk Horizon",
+        "colors": [
+            "#F27D5E",
+            "#20078C",
+            "#BF1E12",
+            "#2D7863",
+            "#EC5126"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Delicate Nebula",
+        "colors": [
+            "#69299E",
+            "#34D227",
+            "#7E27F8",
+            "#C9B57E",
+            "#60AE76"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Quirky Nova",
+        "colors": [
+            "#B25C97",
+            "#0F737C",
+            "#001AFF",
+            "#4E9DEE",
+            "#F10A3B"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Vigorous Vortex",
+        "colors": [
+            "#A3447E",
+            "#66E818",
+            "#E24489",
+            "#6123CA",
+            "#EB40C3"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Electric Dawn",
+        "colors": [
+            "#58EEAF",
+            "#461824",
+            "#8E0195",
+            "#8F034D",
+            "#4A8228"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Smooth Equinox",
+        "colors": [
+            "#7F8FAC",
+            "#A78ABB",
+            "#FF4EE8",
+            "#99C624",
+            "#8B6EEF"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Shadowy Frost",
+        "colors": [
+            "#C717F4",
+            "#F98986",
+            "#95DE10",
+            "#6F493A",
+            "#22E2C6"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Polished Nova",
+        "colors": [
+            "#E7AEB6",
+            "#F45537",
+            "#2C4CE1",
+            "#FA3E53",
+            "#59359D"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Mystic Nova",
+        "colors": [
+            "#364BEE",
+            "#98A800",
+            "#4F3104",
+            "#4C08CB",
+            "#350C29"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Shadowy Brook",
+        "colors": [
+            "#2B316A",
+            "#1C2D5C",
+            "#0C82D5",
+            "#C48903",
+            "#1533CC"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Smooth Tundra",
+        "colors": [
+            "#7A76DA",
+            "#5EEA3B",
+            "#D04CC0",
+            "#00BF7A",
+            "#C53D6F"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Polished Twilight",
+        "colors": [
+            "#5B58D4",
+            "#40384F",
+            "#6CDFE4",
+            "#A7FA42",
+            "#FAAC31"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Quirky Gale",
+        "colors": [
+            "#39BAAD",
+            "#A1A8F3",
+            "#A036EB",
+            "#EA4532",
+            "#3C6FC0"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Electric Mirage",
+        "colors": [
+            "#7A750A",
+            "#06BEEE",
+            "#4BC478",
+            "#3765A7",
+            "#F08FB2"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Smooth Ripple",
+        "colors": [
+            "#9553C6",
+            "#EAA0A5",
+            "#D2F0F7",
+            "#7C4770",
+            "#78A59D"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Polished Brook",
+        "colors": [
+            "#501F52",
+            "#C8CBF1",
+            "#173722",
+            "#5851E4",
+            "#80B5F2"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Brisk Cascade",
+        "colors": [
+            "#59E09D",
+            "#F1B4D9",
+            "#44B8E3",
+            "#1C9712",
+            "#241AC3"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Electric Meadow",
+        "colors": [
+            "#F06D59",
+            "#E9B2CE",
+            "#DE29AE",
+            "#D84B76",
+            "#890570"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Magnetic Blaze",
+        "colors": [
+            "#544940",
+            "#0AB66C",
+            "#7C3D0B",
+            "#DB09DE",
+            "#58E063"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Smooth Summit",
+        "colors": [
+            "#52F2FE",
+            "#9AE013",
+            "#5C2A81",
+            "#58915C",
+            "#55C16C"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Delicate Summit",
+        "colors": [
+            "#5F3722",
+            "#265F50",
+            "#C823F1",
+            "#774031",
+            "#904CA2"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Magnetic Mirage",
+        "colors": [
+            "#53FA68",
+            "#50FB49",
+            "#3C57E5",
+            "#50E3FF",
+            "#7FAC99"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Smooth Lagoon",
+        "colors": [
+            "#C150CA",
+            "#35FE48",
+            "#4026C8",
+            "#22C05B",
+            "#99B96F"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Silky Zephyr",
+        "colors": [
+            "#54A548",
+            "#469B56",
+            "#79429B",
+            "#5F6FC7",
+            "#4DE843"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Mystic Shadow",
+        "colors": [
+            "#CA57B3",
+            "#87E6A6",
+            "#B33CF8",
+            "#5A24D8",
+            "#2B8582"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Brisk Storm",
+        "colors": [
+            "#3F6880",
+            "#6FC6A9",
+            "#AEAAA2",
+            "#D74B88",
+            "#E82C05"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Vigorous Flare",
+        "colors": [
+            "#7FEC6E",
+            "#CF6D1B",
+            "#07040D",
+            "#AFE348",
+            "#80C65A"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Smooth Pulse",
+        "colors": [
+            "#961908",
+            "#E1F478",
+            "#4440B0",
+            "#2C1CD3",
+            "#97B478"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Quirky Whisper",
+        "colors": [
+            "#803300",
+            "#D7D82C",
+            "#6DF1B0",
+            "#EF4C71",
+            "#F4F3E1"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Shadowy Whisper",
+        "colors": [
+            "#E9B251",
+            "#BBD020",
+            "#095AFA",
+            "#39AA20",
+            "#4D6A1C"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Polished Gale",
+        "colors": [
+            "#30DDCE",
+            "#24263C",
+            "#DEB420",
+            "#171D9D",
+            "#A16F96"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Quirky Cascade",
+        "colors": [
+            "#BE9CD8",
+            "#CAD97C",
+            "#946136",
+            "#C1986C",
+            "#A35400"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Electric Breeze",
+        "colors": [
+            "#A33E12",
+            "#58F6C3",
+            "#F41B66",
+            "#4F0110",
+            "#DE17A9"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Polished Ocean",
+        "colors": [
+            "#B6CA41",
+            "#09D817",
+            "#10E316",
+            "#74989E",
+            "#034D6E"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Quirky Canyon",
+        "colors": [
+            "#0C96F2",
+            "#D8D0AC",
+            "#DD9D6E",
+            "#778328",
+            "#AA525F"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Smooth Crest",
+        "colors": [
+            "#2A785E",
+            "#29305D",
+            "#DE0FAC",
+            "#CC35B1",
+            "#35E263"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Quirky Tundra",
+        "colors": [
+            "#BF4900",
+            "#0EEE8A",
+            "#6E83BF",
+            "#D1C7B1",
+            "#137B18"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Smooth Canyon",
+        "colors": [
+            "#5E4356",
+            "#8FA1DA",
+            "#CA953C",
+            "#871093",
+            "#895D56"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Silky Meadow",
+        "colors": [
+            "#E9F571",
+            "#21D696",
+            "#A9DB30",
+            "#9FF4D8",
+            "#10EAC8"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Quirky Horizon",
+        "colors": [
+            "#C8BD27",
+            "#D6BE63",
+            "#4B57A9",
+            "#7C0A92",
+            "#A89551"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Vigorous Forest",
+        "colors": [
+            "#B57315",
+            "#520C19",
+            "#5CD1D8",
+            "#BB4CED",
+            "#FE898D"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Polished Comet",
+        "colors": [
+            "#EE76CC",
+            "#099562",
+            "#A1D24F",
+            "#3988BA",
+            "#30C2A8"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Polished Tempest",
+        "colors": [
+            "#C56A72",
+            "#9AE538",
+            "#1A1192",
+            "#E75E71",
+            "#F004D9"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Silky Horizon",
+        "colors": [
+            "#0BB50D",
+            "#786FA8",
+            "#0BB7EA",
+            "#6C1700",
+            "#AA2392"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Shadowy Eclipse",
+        "colors": [
+            "#327B45",
+            "#68059F",
+            "#CB2D75",
+            "#408F0B",
+            "#76CE64"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Electric Cascade",
+        "colors": [
+            "#AB641D",
+            "#89D133",
+            "#486C6E",
+            "#6B833A",
+            "#D95A51"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Silky Cascade",
+        "colors": [
+            "#9499B5",
+            "#C77843",
+            "#B30430",
+            "#D60B3D",
+            "#96C9CA"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Brisk Blaze",
+        "colors": [
+            "#6B420F",
+            "#36E9CA",
+            "#98E2E0",
+            "#62F108",
+            "#BBDC1A"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Smooth Oasis",
+        "colors": [
+            "#77ECAB",
+            "#376BD4",
+            "#A56F80",
+            "#799F46",
+            "#8890D1"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Polished Ripple",
+        "colors": [
+            "#140D61",
+            "#770744",
+            "#B4C774",
+            "#645FBE",
+            "#3DD3B0"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Dazzling Comet",
+        "colors": [
+            "#3DCF8E",
+            "#1DC369",
+            "#AB2CB1",
+            "#BA8088",
+            "#0F6600"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Delicate Ripple",
+        "colors": [
+            "#177073",
+            "#89D7C2",
+            "#94E6CF",
+            "#6716EF",
+            "#630932"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Smooth Brook",
+        "colors": [
+            "#701797",
+            "#0E6F77",
+            "#769CD3",
+            "#FECE5F",
+            "#B73A51"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Magnetic Wave",
+        "colors": [
+            "#D5A12A",
+            "#1033CA",
+            "#657B83",
+            "#502E7A",
+            "#E909D7"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Mystic Peak",
+        "colors": [
+            "#657A6E",
+            "#97854C",
+            "#8574D6",
+            "#1415E6",
+            "#61E232"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Silky Cloud",
+        "colors": [
+            "#956EDD",
+            "#70B69F",
+            "#8CDE41",
+            "#522344",
+            "#1F1BCB"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Delicate Storm",
+        "colors": [
+            "#548F19",
+            "#90DF1E",
+            "#DB02FC",
+            "#8D58CD",
+            "#87A5F6"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Smooth Vortex",
+        "colors": [
+            "#FBF9B7",
+            "#5586F2",
+            "#57E2B8",
+            "#589D05",
+            "#1950BB"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Delicate Wave",
+        "colors": [
+            "#838A81",
+            "#951877",
+            "#D236F0",
+            "#988B22",
+            "#23F7DF"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Polished Pulse",
+        "colors": [
+            "#E2FC26",
+            "#AA2DE1",
+            "#6618E2",
+            "#6DF6B9",
+            "#58ACF5"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Silky Summit",
+        "colors": [
+            "#A3F3CD",
+            "#87E854",
+            "#5792E6",
+            "#8DC075",
+            "#2F48FB"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Delicate Canyon",
+        "colors": [
+            "#33371F",
+            "#E0408A",
+            "#4A56CA",
+            "#229FA9",
+            "#90DC54"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Brisk Aura",
+        "colors": [
+            "#8215A9",
+            "#273471",
+            "#A6DF93",
+            "#F62FE2",
+            "#AEE444"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Polished Ember",
+        "colors": [
+            "#2F8130",
+            "#8AA440",
+            "#D269CE",
+            "#43F8FA",
+            "#048263"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Mystic Mist",
+        "colors": [
+            "#0EF6BA",
+            "#60422A",
+            "#A5D4F1",
+            "#FAE8E1",
+            "#04CC68"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Delicate Prism",
+        "colors": [
+            "#E0D14C",
+            "#F92312",
+            "#D3BC8A",
+            "#415397",
+            "#B92DEB"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Smooth Comet",
+        "colors": [
+            "#D5ECB3",
+            "#C8916A",
+            "#C90C82",
+            "#9E2C1D",
+            "#E36502"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Vigorous Ember",
+        "colors": [
+            "#2AC15E",
+            "#839FFB",
+            "#991509",
+            "#4B1CFF",
+            "#710D8A"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Magnetic Brook",
+        "colors": [
+            "#21BE45",
+            "#23FAC1",
+            "#4B538B",
+            "#A2F414",
+            "#C2437F"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Shadowy Tempest",
+        "colors": [
+            "#636987",
+            "#D914A5",
+            "#551ADE",
+            "#941077",
+            "#273D3F"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Glistening Cloud",
+        "colors": [
+            "#975D5C",
+            "#616922",
+            "#B64F4C",
+            "#2F91C1",
+            "#1F73F6"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Mystic Wave",
+        "colors": [
+            "#568771",
+            "#564C7B",
+            "#FC4D21",
+            "#04AA21",
+            "#E79A9D"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Electric Dusk",
+        "colors": [
+            "#5B49FC",
+            "#6BFA32",
+            "#74BF01",
+            "#A15B19",
+            "#898B47"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Silky Flare",
+        "colors": [
+            "#6D3A6F",
+            "#40F7A3",
+            "#345C81",
+            "#F14398",
+            "#EA6F08"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Quirky Cloud",
+        "colors": [
+            "#416453",
+            "#1BD94B",
+            "#D6BC98",
+            "#326A3F",
+            "#68419C"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Quirky Breeze",
+        "colors": [
+            "#D243E7",
+            "#6D51BE",
+            "#A320BF",
+            "#D0EDBB",
+            "#A44A8E"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Vigorous Meadow",
+        "colors": [
+            "#E02D3A",
+            "#7EDD8D",
+            "#D8CBD0",
+            "#F2FF93",
+            "#F33189"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Brisk Galaxy",
+        "colors": [
+            "#5DCB0C",
+            "#A7504B",
+            "#E53FB4",
+            "#A95E9C",
+            "#4A7340"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Brisk Canyon",
+        "colors": [
+            "#8BD03D",
+            "#8C4476",
+            "#25B90D",
+            "#E80349",
+            "#4D639C"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Magnetic Tempest",
+        "colors": [
+            "#D7C4D2",
+            "#1C4B93",
+            "#AEA5C8",
+            "#85B59C",
+            "#DD3ED5"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Delicate Nova",
+        "colors": [
+            "#D69F71",
+            "#059B64",
+            "#3AD412",
+            "#7FFA1B",
+            "#9D3BED"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Bold Flare",
+        "colors": [
+            "#E69101",
+            "#B3CE36",
+            "#350A90",
+            "#E71903",
+            "#14801F"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Mystic Echo",
+        "colors": [
+            "#21C621",
+            "#D13D2F",
+            "#E2B63D",
+            "#F93C04",
+            "#6D3A15"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Electric Flare",
+        "colors": [
+            "#C33116",
+            "#B27B35",
+            "#2E2A32",
+            "#7FA035",
+            "#DD2629"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Electric Vortex",
+        "colors": [
+            "#94605B",
+            "#055870",
+            "#B71E9C",
+            "#B8A08F",
+            "#D6FC1B"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Silky Echo",
+        "colors": [
+            "#5559DC",
+            "#B0739A",
+            "#E87F5C",
+            "#A6C385",
+            "#AD4886"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Shadowy Mirage",
+        "colors": [
+            "#51A987",
+            "#534AD8",
+            "#AD7B97",
+            "#9749D5",
+            "#FED8D0"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Magnetic Zephyr",
+        "colors": [
+            "#5BB601",
+            "#A701CC",
+            "#3CB377",
+            "#5E289A",
+            "#64F2E3"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Magnetic Meadow",
+        "colors": [
+            "#2D69FA",
+            "#2B6F89",
+            "#9F287D",
+            "#54F651",
+            "#C141FD"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Brisk Zephyr",
+        "colors": [
+            "#8E58A1",
+            "#5CD260",
+            "#2D66A9",
+            "#13F13D",
+            "#F7CF0F"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Silky Tempest",
+        "colors": [
+            "#B67603",
+            "#FF2511",
+            "#2C3B57",
+            "#9B6529",
+            "#962578"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Mystic Summit",
+        "colors": [
+            "#7A8C6B",
+            "#C3EC73",
+            "#FE8C72",
+            "#6BCC8B",
+            "#1B8060"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Golden Echo",
+        "colors": [
+            "#D917A8",
+            "#15E44A",
+            "#8874C2",
+            "#3EAE48",
+            "#10C145"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Subdued Canyon",
+        "colors": [
+            "#E5DD12",
+            "#5C8728",
+            "#65D55E",
+            "#371778",
+            "#B90DD5"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Vigorous Nebula",
+        "colors": [
+            "#8FAD13",
+            "#A83002",
+            "#F27E37",
+            "#B3832F",
+            "#F692A0"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Quirky Nebula",
+        "colors": [
+            "#CE0489",
+            "#673926",
+            "#7C42A9",
+            "#FFEB3B",
+            "#76A6D8"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Delicate Mirage",
+        "colors": [
+            "#14C1EF",
+            "#98D19E",
+            "#CEA5D6",
+            "#DDAF74",
+            "#A8B8A0"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Shadowy Sky",
+        "colors": [
+            "#D695B3",
+            "#2E50B2",
+            "#006A17",
+            "#9B21EF",
+            "#F04636"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Delicate Flare",
+        "colors": [
+            "#8F60F4",
+            "#9F2D04",
+            "#D39AAA",
+            "#E85187",
+            "#FCF40D"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Brisk Mirage",
+        "colors": [
+            "#BC4105",
+            "#9DBB44",
+            "#3B22ED",
+            "#4D3322",
+            "#C1F7A7"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Magnetic Nebula",
+        "colors": [
+            "#D8FD2B",
+            "#F79849",
+            "#B9ACFF",
+            "#206040",
+            "#E98EB2"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Electric Wave",
+        "colors": [
+            "#F32537",
+            "#6D1412",
+            "#8847D0",
+            "#10B058",
+            "#FDF4C2"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Quirky Tide",
+        "colors": [
+            "#07C599",
+            "#C7B6E3",
+            "#2DD600",
+            "#F713DB",
+            "#7E8556"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Mystic Galaxy",
+        "colors": [
+            "#D9931C",
+            "#6BD3F6",
+            "#B42581",
+            "#126922",
+            "#07B237"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Magnetic Shadow",
+        "colors": [
+            "#048A4A",
+            "#D9DC63",
+            "#2970E8",
+            "#22B5CE",
+            "#88D071"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Electric Brook",
+        "colors": [
+            "#B14804",
+            "#83B4D7",
+            "#317DB6",
+            "#146748",
+            "#E7FAB1"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Smooth Horizon",
+        "colors": [
+            "#A82921",
+            "#12055F",
+            "#A129E3",
+            "#E4193B",
+            "#D8AFA7"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Vigorous Comet",
+        "colors": [
+            "#729A32",
+            "#3472B2",
+            "#F027CE",
+            "#64A05E",
+            "#85723E"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Delicate Zephyr",
+        "colors": [
+            "#60DFCD",
+            "#4BA7D2",
+            "#439C2A",
+            "#EFE437",
+            "#84665E"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Vigorous Gale",
+        "colors": [
+            "#CB22D4",
+            "#F7EAB1",
+            "#6C0F33",
+            "#D3DB61",
+            "#741FFD"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Shadowy Forest",
+        "colors": [
+            "#38A19D",
+            "#3AA478",
+            "#41A971",
+            "#D6CF94",
+            "#9E3160"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Polished Shadow",
+        "colors": [
+            "#3F33F2",
+            "#3DB8A1",
+            "#29F579",
+            "#F8C3E7",
+            "#E1F5E7"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Quirky Frost",
+        "colors": [
+            "#790603",
+            "#95A5E4",
+            "#33BC7E",
+            "#B14228",
+            "#635295"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Brisk Twilight",
+        "colors": [
+            "#2D9BC0",
+            "#CE8078",
+            "#F7B520",
+            "#480CDE",
+            "#94BB0A"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Delicate Dream",
+        "colors": [
+            "#CB2405",
+            "#6789E6",
+            "#6E84D9",
+            "#B71785",
+            "#D34933"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Delicate Dusk",
+        "colors": [
+            "#B5A620",
+            "#95B8CA",
+            "#E4DA11",
+            "#AA9B9E",
+            "#C5A0D8"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Brisk Dusk",
+        "colors": [
+            "#11E5C9",
+            "#D1D355",
+            "#F0CA19",
+            "#E5D6FF",
+            "#BF3D27"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Smooth Whisper",
+        "colors": [
+            "#EE0573",
+            "#9A0C24",
+            "#A6A470",
+            "#A476FA",
+            "#91BEC2"
+        ],
+        "category": "Monochrome"
     }
 ]
