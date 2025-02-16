@@ -10,7 +10,7 @@ export const Navbar = ({ onSearch }: NavbarProps) => {
   return (
     <nav className="sticky top-0 z-50 w-full backdrop-blur-lg border-b">
       <div className="container mx-auto px-4 py-3">
-        <div className="flex items-center justify-between">
+        <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-0 sm:justify-between">
           <h1 className="text-2xl font-display font-bold">YourPallate</h1>
 
           <div className="flex items-center space-x-4">
@@ -19,7 +19,7 @@ export const Navbar = ({ onSearch }: NavbarProps) => {
               <input
                 type="search"
                 placeholder="Search palettes..."
-                className="w-full md:w-[200px] pl-9 pr-4 py-2 text-sm rounded-full bg-secondary"
+                className="w-[200px] sm:w-[250px] pl-9 pr-4 py-2 text-sm rounded-full bg-secondary"
                 onChange={(e) => onSearch(e.target.value)}
               />
             </div>

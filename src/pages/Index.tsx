@@ -54,7 +54,7 @@ const Index = () => {
       <Navbar onSearch={setSearchQuery} />
       <main className="container mx-auto px-4 py-8">
         <div className="space-y-8 animate-slideUp">
-          <div className="flex items-center justify-center space-x-4 mb-8">
+          <div className="flex flex-wrap items-center justify-center gap-2 mb-8">
             {categories.map((category) => (
               <button
                 key={category}
@@ -70,10 +70,10 @@ const Index = () => {
             ))}
           </div>
           <section>
-            <h2 className="text-3xl font-display font-bold mb-6">
+            <h2 className="text-3xl font-display font-bold mb-6 text-center sm:text-left">
               {activeCategory === "All" ? "All Palettes" : `${activeCategory} Palettes`}
             </h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
               {filteredPalettes.map((palette) => (
                 <ColorPalette
                   key={palette.name}
