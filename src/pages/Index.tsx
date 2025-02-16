@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 import { Navbar } from "@/components/Navbar";
 import { ColorPalette } from "@/components/ColorPalette";
@@ -20,7 +19,7 @@ const palettes = [
     colors: ["#FFE5E5", "#FFF1E6", "#F0F4EF", "#E6F4F1", "#EBE7FF"],
     category: "Pastel",
   },
-  // New Palettes
+  // Previous New Palettes
   {
     name: "Berry Blast",
     colors: ["#FF0A54", "#FF477E", "#FF7096", "#FF85A1", "#FBB1BD"],
@@ -105,6 +104,57 @@ const palettes = [
     name: "Mountain Peak",
     colors: ["#EFE6DD", "#CBC4BC", "#A89F96", "#857A70", "#625750"],
     category: "Earthy",
+  },
+  // Additional New Palettes
+  {
+    name: "Deep Sea",
+    colors: ["#001F3F", "#003366", "#004080", "#0059B3", "#0073E6"],
+    category: "Trending",
+  },
+  {
+    name: "Cherry Blossom",
+    colors: ["#FFC0CB", "#FFB6C1", "#FF69B4", "#FF1493", "#DB7093"],
+    category: "Pastel",
+  },
+  {
+    name: "Desert Sunset",
+    colors: ["#FF8C42", "#FFA07A", "#FFB347", "#FFC985", "#FFD8A8"],
+    category: "Vibrant",
+  },
+  {
+    name: "Northern Lights",
+    colors: ["#00FF9F", "#00FFE5", "#00E5FF", "#00BFFF", "#009FFF"],
+    category: "Neon",
+  },
+  {
+    name: "Vintage Rose",
+    colors: ["#D8A7B1", "#BC8F8F", "#E6B0AA", "#B47B84", "#96616B"],
+    category: "Pastel",
+  },
+  {
+    name: "Forest Moss",
+    colors: ["#2D5A27", "#436B35", "#5A7D45", "#719F55", "#89C265"],
+    category: "Earthy",
+  },
+  {
+    name: "Twilight Sky",
+    colors: ["#1B1B3A", "#2D2D5B", "#3F3F7C", "#51519D", "#6363BE"],
+    category: "Trending",
+  },
+  {
+    name: "Candy Shop",
+    colors: ["#FF1493", "#FF69B4", "#FFB6C1", "#FFC0CB", "#FFE4E1"],
+    category: "Vibrant",
+  },
+  {
+    name: "Emerald City",
+    colors: ["#004D40", "#00695C", "#00796B", "#009688", "#00BFA5"],
+    category: "Trending",
+  },
+  {
+    name: "Neon Dream",
+    colors: ["#FF1177", "#FF44AA", "#FF77DD", "#FFAAFF", "#FFDDFF"],
+    category: "Neon",
   }
 ];
 
