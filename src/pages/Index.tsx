@@ -1,17 +1,41 @@
-
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Navbar } from "@/components/Navbar";
 import { ColorPalette } from "@/components/ColorPalette";
-import { palettes, categories } from "@/data/colorPalettes";
+// import { palettes, categories } from "@/data/colorPalettes"; // Commented out
 
 const Index = () => {
   const [searchQuery, setSearchQuery] = useState("");
   const [activeCategory, setActiveCategory] = useState("All");
+  const [palettes, setPalettes] = useState([]);
+  const [categories, setCategories] = useState([]);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const palettesRes = await fetch("https://raw.githubusercontent.com/NSTechBytes/yourpalettes-website/main/api/colorpalettes.json");
+        const categoriesRes = await fetch("https://raw.githubusercontent.com/NSTechBytes/yourpalettes-website/main/api/categories.json");
+
+        const palettesData = await palettesRes.json();
+        const categoriesData = await categoriesRes.json();
+
+        setPalettes(palettesData);
+        setCategories(["All", ...categoriesData]); // Include "All" category
+      } catch (error) {
+        console.error("Error fetching data:", error);
+      }
+    };
+
+    fetchData();
+  }, []);
 
   const filteredPalettes = palettes.filter((palette) => {
-    const matchesSearch = palette.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      palette.colors.some(color => color.toLowerCase().includes(searchQuery.toLowerCase()));
-    const matchesCategory = activeCategory === "All" || palette.category === activeCategory;
+    const matchesSearch =
+      palette.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+      palette.colors.some((color) =>
+        color.toLowerCase().includes(searchQuery.toLowerCase())
+      );
+    const matchesCategory =
+      activeCategory === "All" || palette.category === activeCategory;
     return matchesSearch && matchesCategory;
   });
 
