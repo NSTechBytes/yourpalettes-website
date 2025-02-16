@@ -202,6 +202,71 @@ const palettes = [
     name: "Forest Whisper",
     colors: ["#556B2F", "#6B8E23", "#808000", "#8FBC8F", "#9ACD32"],
     category: "Earthy",
+  },
+  {
+    name: "Neon Nights",
+    colors: ["#FF00FF", "#00FF99", "#9900FF", "#FF9900", "#0099FF"],
+    category: "Neon",
+  },
+  {
+    name: "Arctic Glow",
+    colors: ["#E3F6F5", "#BAE8E8", "#93D3D3", "#6DB3B3", "#488B8F"],
+    category: "Pastel",
+  },
+  {
+    name: "Desert Storm",
+    colors: ["#EFE6DD", "#CBC4BC", "#A89F96", "#857A70", "#625750"],
+    category: "Earthy",
+  },
+  {
+    name: "Marine Blue",
+    colors: ["#001F3F", "#003366", "#004080", "#0059B3", "#0073E6"],
+    category: "Trending",
+  },
+  {
+    name: "Sakura Dreams",
+    colors: ["#FFC0CB", "#FFB6C1", "#FF69B4", "#FF1493", "#DB7093"],
+    category: "Pastel",
+  },
+  {
+    name: "Desert Gold",
+    colors: ["#FF8C42", "#FFA07A", "#FFB347", "#FFC985", "#FFD8A8"],
+    category: "Vibrant",
+  },
+  {
+    name: "Aurora",
+    colors: ["#00FF9F", "#00FFE5", "#00E5FF", "#00BFFF", "#009FFF"],
+    category: "Neon",
+  },
+  {
+    name: "Vintage Mauve",
+    colors: ["#D8A7B1", "#BC8F8F", "#E6B0AA", "#B47B84", "#96616B"],
+    category: "Pastel",
+  },
+  {
+    name: "Forest Depths",
+    colors: ["#2D5A27", "#436B35", "#5A7D45", "#719F55", "#89C265"],
+    category: "Earthy",
+  },
+  {
+    name: "Dusk Sky",
+    colors: ["#1B1B3A", "#2D2D5B", "#3F3F7C", "#51519D", "#6363BE"],
+    category: "Trending",
+  },
+  {
+    name: "Sweet Shop",
+    colors: ["#FF1493", "#FF69B4", "#FFB6C1", "#FFC0CB", "#FFE4E1"],
+    category: "Vibrant",
+  },
+  {
+    name: "Jade Garden",
+    colors: ["#004D40", "#00695C", "#00796B", "#009688", "#00BFA5"],
+    category: "Trending",
+  },
+  {
+    name: "Neon Fantasy",
+    colors: ["#FF1177", "#FF44AA", "#FF77DD", "#FFAAFF", "#FFDDFF"],
+    category: "Neon",
   }
 ];
 
