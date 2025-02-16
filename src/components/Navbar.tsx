@@ -12,8 +12,8 @@ export const Navbar = ({ onSearch }: NavbarProps) => {
       <div className="container mx-auto px-4">
         <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-0 sm:justify-between h-16">
           <div className="flex items-center gap-2">
-            <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-primary/80 to-primary flex items-center justify-center">
-              <span className="text-primary-foreground font-bold text-lg">Y</span>
+            <div className="w-8 h-8  from-primary/80 to-primary flex items-center justify-center">
+              <img src="/yourpalette.png" alt="img" />
             </div>
             <h1 className="text-xl font-display font-bold bg-clip-text text-transparent bg-gradient-to-r from-foreground to-foreground/80">
               YourPalettes
