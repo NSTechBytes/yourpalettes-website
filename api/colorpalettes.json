@@ -6246,5 +6246,1688 @@
             "#001013"
         ],
         "category": "Cool"
+    },
+    {
+        "name": "Soft Breeze",
+        "colors": [
+            "#F4E3E8",
+            "#D9CCE3",
+            "#C6D9EB",
+            "#E0F2F7",
+            "#F5F5DC"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Blush Petals",
+        "colors": [
+            "#FFD1DC",
+            "#FADBD8",
+            "#FDEBD0",
+            "#D6EAF8",
+            "#D1F2EB"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Lavender Mist",
+        "colors": [
+            "#E8DAEF",
+            "#D7BDE2",
+            "#A9CCE3",
+            "#A3E4D7",
+            "#F9E79F"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Mint Whisper",
+        "colors": [
+            "#ABEBC6",
+            "#D5F5E3",
+            "#FCF3CF",
+            "#D6EAF8",
+            "#E8DAEF"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Peach Dream",
+        "colors": [
+            "#FAD7A0",
+            "#F5B7B1",
+            "#D2B4DE",
+            "#AED6F1",
+            "#F9E79F"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Cyber Pulse",
+        "colors": [
+            "#00FF00",
+            "#FF69B4",
+            "#00BFFF",
+            "#FF1493",
+            "#FFA500"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Rave Horizon",
+        "colors": [
+            "#FF6EC7",
+            "#7FFF00",
+            "#FF00FF",
+            "#1E90FF",
+            "#FF8C00"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Night Circuit",
+        "colors": [
+            "#FF00FF",
+            "#00FF00",
+            "#FF4500",
+            "#00BFFF",
+            "#FFD700"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Forest Canopy",
+        "colors": [
+            "#228B22",
+            "#8B4513",
+            "#D2B48C",
+            "#556B2F",
+            "#8FBC8F"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Desert Sands",
+        "colors": [
+            "#D2B48C",
+            "#CD853F",
+            "#A0522D",
+            "#F4A460",
+            "#DEB887"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Mountain Mist",
+        "colors": [
+            "#8B4513",
+            "#2F4F4F",
+            "#556B2F",
+            "#8FBC8F",
+            "#D2B48C"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "River Stones",
+        "colors": [
+            "#696969",
+            "#808080",
+            "#A9A9A9",
+            "#C0C0C0",
+            "#D3D3D3"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Tropical Fiesta",
+        "colors": [
+            "#FF6F61",
+            "#FFD700",
+            "#32CD32",
+            "#1E90FF",
+            "#FF4500"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Rainbow Burst",
+        "colors": [
+            "#FF0000",
+            "#FFA500",
+            "#FFFF00",
+            "#008000",
+            "#0000FF"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Bold Spectrum",
+        "colors": [
+            "#FF4500",
+            "#FFD700",
+            "#32CD32",
+            "#00BFFF",
+            "#8A2BE2"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Sunset Waves",
+        "colors": [
+            "#FF6347",
+            "#FFA07A",
+            "#FFDAB9",
+            "#ADD8E6",
+            "#87CEFA"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Winter Frost",
+        "colors": [
+            "#E0F7FA",
+            "#B3E5FC",
+            "#81D4FA",
+            "#4FC3F7",
+            "#29B6F6"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Midnight Sky",
+        "colors": [
+            "#1A237E",
+            "#3949AB",
+            "#5C6BC0",
+            "#7986CB",
+            "#9FA8DA"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Corporate Blue",
+        "colors": [
+            "#0D47A1",
+            "#1565C0",
+            "#1976D2",
+            "#1E88E5",
+            "#2196F3"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Minimalist Gray",
+        "colors": [
+            "#FAFAFA",
+            "#F5F5F5",
+            "#EEEEEE",
+            "#E0E0E0",
+            "#BDBDBD"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Spring Blossoms",
+        "colors": [
+            "#FFB6C1",
+            "#FFDAB9",
+            "#FFE4E1",
+            "#F08080",
+            "#FF69B4"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Summer Heat",
+        "colors": [
+            "#FF4500",
+            "#FF6347",
+            "#FF7F50",
+            "#FFA07A",
+            "#FFDAB9"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Autumn Harvest",
+        "colors": [
+            "#8B4513",
+            "#A0522D",
+            "#D2691E",
+            "#CD853F",
+            "#F4A460"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Winter Chill",
+        "colors": [
+            "#E0F7FA",
+            "#B3E5FC",
+            "#81D4FA",
+            "#4FC3F7",
+            "#29B6F6"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Crimson Horizon",
+        "colors": [
+            "#A83232",
+            "#B03E3E",
+            "#BA4A4A",
+            "#C45656",
+            "#CE6262"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Emerald Whisper",
+        "colors": [
+            "#2E8B57",
+            "#359E62",
+            "#3CAA6D",
+            "#43B877",
+            "#4AC482"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Sapphire Dream",
+        "colors": [
+            "#1A3E5B",
+            "#224568",
+            "#2A4E75",
+            "#325983",
+            "#3A628F"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Mystic Ocean",
+        "colors": [
+            "#007B82",
+            "#00868A",
+            "#009092",
+            "#009C9A",
+            "#00A6A2"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Urban Twilight",
+        "colors": [
+            "#4B3B73",
+            "#53427A",
+            "#5B4991",
+            "#634FA8",
+            "#6B56BF"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Coastal Breeze",
+        "colors": [
+            "#A3D5FF",
+            "#AEDCFF",
+            "#B9E3FF",
+            "#C4EAFF",
+            "#CFF1FF"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Lush Meadow",
+        "colors": [
+            "#3E7D22",
+            "#457E2A",
+            "#4C7F32",
+            "#537F3A",
+            "#5A8032"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Electric Plum",
+        "colors": [
+            "#8A2BE2",
+            "#9332E8",
+            "#9C39EE",
+            "#A540F4",
+            "#AD47FA"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Serene Sky",
+        "colors": [
+            "#B3E5FC",
+            "#BEE8FD",
+            "#C9EBFE",
+            "#D4EEFF",
+            "#DFF1FF"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Bold Maroon",
+        "colors": [
+            "#800000",
+            "#871010",
+            "#8E2020",
+            "#952F30",
+            "#9C3F40"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Subtle Lilac",
+        "colors": [
+            "#D8B7DD",
+            "#D1A3D1",
+            "#CA8FC5",
+            "#C280BA",
+            "#BB6CB0"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Radiant Coral",
+        "colors": [
+            "#FF7F50",
+            "#FF8760",
+            "#FF8F70",
+            "#FF9780",
+            "#FFA190"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Celestial Blue",
+        "colors": [
+            "#002F6C",
+            "#00357A",
+            "#003B88",
+            "#004196",
+            "#0047A4"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Tropical Storm",
+        "colors": [
+            "#006064",
+            "#00696B",
+            "#007072",
+            "#007879",
+            "#008080"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Radiant Dusk",
+        "colors": [
+            "#5D3A6A",
+            "#633D72",
+            "#6A407A",
+            "#704483",
+            "#76478B"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Urban Chic",
+        "colors": [
+            "#4A4A4A",
+            "#545454",
+            "#5E5E5E",
+            "#686868",
+            "#727272"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Pastel Mirage",
+        "colors": [
+            "#E1C0FF",
+            "#E7C6FF",
+            "#EDCCFF",
+            "#F3D2FF",
+            "#F9D8FF"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Retro Vibes",
+        "colors": [
+            "#008080",
+            "#108888",
+            "#209090",
+            "#309898",
+            "#409E9E"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Summer Glow",
+        "colors": [
+            "#FFD700",
+            "#FFDC00",
+            "#FFE200",
+            "#FFE800",
+            "#FFEE00"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Spring Bloom",
+        "colors": [
+            "#FFB6C1",
+            "#FFBDC6",
+            "#FFC4CB",
+            "#FFCBD0",
+            "#FFD2D5"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Corporate Slate",
+        "colors": [
+            "#708090",
+            "#768F95",
+            "#7C9EA0",
+            "#83ADAF",
+            "#89BCBE"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Minimalist Edge",
+        "colors": [
+            "#2F2F2F",
+            "#373737",
+            "#3F3F3F",
+            "#474747",
+            "#4F4F4F"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Trending Teal",
+        "colors": [
+            "#008080",
+            "#118F8F",
+            "#229F9F",
+            "#33AFAF",
+            "#44BFBF"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Alluring Amber",
+        "colors": [
+            "#FFBF00",
+            "#FFCD33",
+            "#FFDB66",
+            "#FFE999",
+            "#FFF7CC"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Dreamy Mauve",
+        "colors": [
+            "#E0B0FF",
+            "#E6B8FF",
+            "#ECC0FF",
+            "#F2C8FF",
+            "#F8D0FF"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Arctic Chill",
+        "colors": [
+            "#D0EFFF",
+            "#C0E7FF",
+            "#B0DFFF",
+            "#A0D7FF",
+            "#90CFFF"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Sunset Ember",
+        "colors": [
+            "#D35400",
+            "#DB6006",
+            "#E16C0C",
+            "#E77812",
+            "#ED8418"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Oceanic Depth",
+        "colors": [
+            "#013A63",
+            "#02406F",
+            "#02467B",
+            "#034B87",
+            "#035093"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Celestial Dawn",
+        "colors": [
+            "#FFDDEE",
+            "#FFE0E8",
+            "#FFE4F0",
+            "#FFE8F8",
+            "#FFECFF"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Vivid Horizon",
+        "colors": [
+            "#8E44AD",
+            "#9549B5",
+            "#9A50BD",
+            "#A056C5",
+            "#A65DCD"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Serene Lagoon",
+        "colors": [
+            "#A8E6CF",
+            "#ACEAD3",
+            "#B0EED7",
+            "#B4F2DB",
+            "#B8F6DF"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Twilight Serenade",
+        "colors": [
+            "#0B0C10",
+            "#121418",
+            "#191920",
+            "#202128",
+            "#272930"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Icy Lilac",
+        "colors": [
+            "#D8BFD8",
+            "#D2A9D2",
+            "#CC93CC",
+            "#C67DC6",
+            "#C066C0"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Vibrant Vine",
+        "colors": [
+            "#006400",
+            "#0A6B0A",
+            "#146614",
+            "#1E801E",
+            "#289028"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Rustic Charm",
+        "colors": [
+            "#8B4513",
+            "#924E1A",
+            "#995822",
+            "#A06F29",
+            "#A87731"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Bold Meridian",
+        "colors": [
+            "#001F3F",
+            "#082447",
+            "#102A4F",
+            "#183058",
+            "#203660"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Retro Remix",
+        "colors": [
+            "#FF6F61",
+            "#FF7B6C",
+            "#FF8777",
+            "#FF9372",
+            "#FF9F7D"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Winter Solstice",
+        "colors": [
+            "#003366",
+            "#003D73",
+            "#004680",
+            "#004D8D",
+            "#00549A"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Spring Meadow",
+        "colors": [
+            "#7CFC00",
+            "#82FF00",
+            "#88FF00",
+            "#8EFF00",
+            "#94FF00"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Summer Zephyr",
+        "colors": [
+            "#FFCC00",
+            "#FFD200",
+            "#FFD800",
+            "#FFDE00",
+            "#FFE400"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Corporate Navy",
+        "colors": [
+            "#000080",
+            "#000088",
+            "#000090",
+            "#000098",
+            "#0000A0"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Cool Tempest",
+        "colors": [
+            "#1F618D",
+            "#2471A3",
+            "#2980B9",
+            "#2E86C1",
+            "#3498DB"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Trending Turquoise",
+        "colors": [
+            "#40E0D0",
+            "#46E6D6",
+            "#4CECDC",
+            "#52F2E2",
+            "#58F8E8"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Alluring Aqua",
+        "colors": [
+            "#00FFFF",
+            "#00F7F7",
+            "#00EFEF",
+            "#00E7E7",
+            "#00DFDF"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Vibrant Violet",
+        "colors": [
+            "#9400D3",
+            "#9A06D8",
+            "#A00CDD",
+            "#A60FE2",
+            "#AC15E7"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Pastel Periwinkle",
+        "colors": [
+            "#C3CDE6",
+            "#CAD2EA",
+            "#D1D7EE",
+            "#D8DCF2",
+            "#DFE1F6"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Neon Nectar",
+        "colors": [
+            "#39FF14",
+            "#43FF1A",
+            "#4DFF20",
+            "#57FF26",
+            "#61FF2C"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Earthy Espresso",
+        "colors": [
+            "#4B3621",
+            "#523A24",
+            "#5A3E27",
+            "#62332A",
+            "#6A372D"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Retro Ruby",
+        "colors": [
+            "#9B111E",
+            "#A11724",
+            "#AA1D2A",
+            "#B12330",
+            "#BA2936"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Tropical Teal",
+        "colors": [
+            "#007F7F",
+            "#0F8686",
+            "#1F8D8D",
+            "#2F9494",
+            "#3F9B9B"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Autumn Ash",
+        "colors": [
+            "#705335",
+            "#76573A",
+            "#7C5A40",
+            "#825D45",
+            "#885049"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Winter White",
+        "colors": [
+            "#F8F8FF",
+            "#F0F0F8",
+            "#E8E8F0",
+            "#E0E0E8",
+            "#D8D8E0"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Spring Sprout",
+        "colors": [
+            "#C8E6C9",
+            "#C1E3C3",
+            "#BAE0BD",
+            "#B3DDB7",
+            "#ACDAB1"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Summer Citrus",
+        "colors": [
+            "#FFA500",
+            "#FFAA33",
+            "#FFB066",
+            "#FFB799",
+            "#FFBECC"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Corporate Charcoal",
+        "colors": [
+            "#36454F",
+            "#3D4B55",
+            "#44505B",
+            "#4B5661",
+            "#525C67"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Minimalist Mint",
+        "colors": [
+            "#98FF98",
+            "#92FF92",
+            "#8CFF8C",
+            "#86FF86",
+            "#80FF80"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Cool Cobalt",
+        "colors": [
+            "#0047AB",
+            "#135BBF",
+            "#266FCD",
+            "#3983DB",
+            "#4C97E9"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Trending Tangerine",
+        "colors": [
+            "#FFA07A",
+            "#FFA670",
+            "#FFAD77",
+            "#FFB57E",
+            "#FFBD85"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Alluring Amethyst",
+        "colors": [
+            "#9966CC",
+            "#A06DCF",
+            "#A699D2",
+            "#AD93D5",
+            "#B38ED8"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Vibrant Vermilion",
+        "colors": [
+            "#E34234",
+            "#E84A3B",
+            "#EE523F",
+            "#F45B45",
+            "#FA634B"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Pastel Peach",
+        "colors": [
+            "#FFDAB9",
+            "#FFE0B0",
+            "#FFE6A7",
+            "#FFEC9E",
+            "#FFF294"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Neon Noir",
+        "colors": [
+            "#0F0F0F",
+            "#1A1A1A",
+            "#252525",
+            "#303030",
+            "#3B3B3B"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Earthy Olive",
+        "colors": [
+            "#556B2F",
+            "#5C722F",
+            "#63792F",
+            "#697F2F",
+            "#70862F"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Monochrome Midnight",
+        "colors": [
+            "#000000",
+            "#1A1A1A",
+            "#333333",
+            "#4D4D4D",
+            "#666666"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Retro Rose",
+        "colors": [
+            "#FF66B2",
+            "#FF73B8",
+            "#FF80BE",
+            "#FF8DB4",
+            "#FF9AB9"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Tropical Oasis",
+        "colors": [
+            "#008B8B",
+            "#119191",
+            "#229797",
+            "#339D9D",
+            "#44A3A3"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Autumn Olive",
+        "colors": [
+            "#6B4C3B",
+            "#714F3E",
+            "#775241",
+            "#7D5544",
+            "#835847"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Spring Solstice",
+        "colors": [
+            "#E6F9E6",
+            "#DFF3DF",
+            "#D8EDD8",
+            "#D1E7D1",
+            "#CAD1CA"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Summer Sand",
+        "colors": [
+            "#F4A460",
+            "#F5AC65",
+            "#F6B470",
+            "#F7BE7B",
+            "#F8C887"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Corporate Cyan",
+        "colors": [
+            "#00CED1",
+            "#00D5D8",
+            "#00DCDF",
+            "#00E3E6",
+            "#00EAEF"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Minimalist Maple",
+        "colors": [
+            "#D2691E",
+            "#D0741A",
+            "#CA6F16",
+            "#C26B12",
+            "#BA660E"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Cool Cerulean",
+        "colors": [
+            "#007BA7",
+            "#0080AC",
+            "#0085B1",
+            "#008AB6",
+            "#008FBB"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Trending Thistle",
+        "colors": [
+            "#D8BFD8",
+            "#D2AACF",
+            "#CC96C6",
+            "#C680BD",
+            "#C06BB4"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Alluring Arctic",
+        "colors": [
+            "#A3D8F4",
+            "#A9DCF6",
+            "#B0E0F8",
+            "#B6E4FA",
+            "#BCD8FC"
+        ],
+        "category": "All"
+    },
+    {
+        "name": "Radiant Ember",
+        "colors": [
+            "#FF4500",
+            "#FF4D0A",
+            "#FF550F",
+            "#FF5E15",
+            "#FF661A"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Mystic Dusk",
+        "colors": [
+            "#2C3E50",
+            "#34495E",
+            "#3D566B",
+            "#455F78",
+            "#4E6985"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Misty Dawn",
+        "colors": [
+            "#FFF0F5",
+            "#FFE1EB",
+            "#FFD2E1",
+            "#FFC3D7",
+            "#FFB4CD"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Frosted Leaves",
+        "colors": [
+            "#E0F7FA",
+            "#CCEFF5",
+            "#B8E8F0",
+            "#A4E0EB",
+            "#90D9E6"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Coral Lagoon",
+        "colors": [
+            "#FF7F50",
+            "#FF8B5A",
+            "#FF9774",
+            "#FFA38E",
+            "#FFAFA8"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Serene Mint",
+        "colors": [
+            "#E0F8E0",
+            "#CCF0CC",
+            "#B8E8B8",
+            "#A4E0A4",
+            "#90D890"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Golden Ember",
+        "colors": [
+            "#FF8C00",
+            "#FFA100",
+            "#FFB600",
+            "#FFCB00",
+            "#FFDF00"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Electric Fizz",
+        "colors": [
+            "#A6FF00",
+            "#AAFF0A",
+            "#AEFF14",
+            "#B2FF1E",
+            "#B6FF28"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Deep Ocean",
+        "colors": [
+            "#001F3F",
+            "#002B55",
+            "#00377B",
+            "#0043A1",
+            "#0050C7"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Desert Sunrise",
+        "colors": [
+            "#EDC9AF",
+            "#E6B99E",
+            "#DFA68D",
+            "#D89A7C",
+            "#D28E6B"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Neon Aurora",
+        "colors": [
+            "#FF5500",
+            "#FF6000",
+            "#FF6B00",
+            "#FF7600",
+            "#FF8100"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Vintage Gold",
+        "colors": [
+            "#C28840",
+            "#C68F45",
+            "#C9964A",
+            "#CCA04F",
+            "#CFA855"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Lush Greenery",
+        "colors": [
+            "#006400",
+            "#0A6D1A",
+            "#146637",
+            "#1E8134",
+            "#289F42"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Cobalt Cascade",
+        "colors": [
+            "#0047AB",
+            "#1159B5",
+            "#226BBF",
+            "#337DC9",
+            "#448ED3"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Sunlit Prism",
+        "colors": [
+            "#FF00FF",
+            "#FF19FF",
+            "#FF32FF",
+            "#FF4BFF",
+            "#FF64FF"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Icy Starlight",
+        "colors": [
+            "#E0F7FF",
+            "#D7EEFF",
+            "#CEE5FF",
+            "#C5DCFF",
+            "#BCD3FF"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Amber Glow",
+        "colors": [
+            "#FFBF00",
+            "#FFB300",
+            "#FFA700",
+            "#FF9B00",
+            "#FF8F00"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Saffron Sunset",
+        "colors": [
+            "#FFC107",
+            "#FFB600",
+            "#FFAA00",
+            "#FF9E00",
+            "#FF9200"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Iridescent Sea",
+        "colors": [
+            "#00CED1",
+            "#00D3D6",
+            "#00D8DB",
+            "#00DDE0",
+            "#00E2E5"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Sunrise Symphony",
+        "colors": [
+            "#FFB3AB",
+            "#FFC8A3",
+            "#FFDC9B",
+            "#FFEF93",
+            "#FFFF8B"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Moonlight Sonata",
+        "colors": [
+            "#0A1F44",
+            "#223A66",
+            "#3B5577",
+            "#547E89",
+            "#6E9AA0"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Desert Mirage II",
+        "colors": [
+            "#D4A373",
+            "#C98B61",
+            "#BF7550",
+            "#B55F3F",
+            "#AA492E"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Urban Pulse",
+        "colors": [
+            "#001F3F",
+            "#003366",
+            "#004080",
+            "#005099",
+            "#0066B3"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Ocean Mist",
+        "colors": [
+            "#004E89",
+            "#0066A3",
+            "#007FBF",
+            "#0099D4",
+            "#00B3E8"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Radiant Bloom",
+        "colors": [
+            "#FADADD",
+            "#FCDCE1",
+            "#FEE9E5",
+            "#FFF6EA",
+            "#FFFFEF"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Fiery Dusk",
+        "colors": [
+            "#FF4500",
+            "#FF5733",
+            "#FF6F61",
+            "#FF8A85",
+            "#FFA3A9"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Tropical Breeze",
+        "colors": [
+            "#00CED1",
+            "#00D2D6",
+            "#00D6DB",
+            "#00DADA",
+            "#00DFDF"
+        ],
+        "category": "Tropical"
+    },
+    {
+        "name": "Cyber Glow",
+        "colors": [
+            "#00FFFF",
+            "#00E5FF",
+            "#00CCFF",
+            "#00B2FF",
+            "#0099FF"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Gentle Horizon",
+        "colors": [
+            "#F0F0F0",
+            "#D9D9D9",
+            "#C2C2C2",
+            "#ABABAB",
+            "#949494"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Celestial Sea",
+        "colors": [
+            "#012E40",
+            "#02415F",
+            "#035380",
+            "#0466A1",
+            "#0578C2"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Gentle Coral",
+        "colors": [
+            "#FFC1B3",
+            "#FFD2BF",
+            "#FFE3CB",
+            "#FFF4D7",
+            "#FFFFE3"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Aurora Lights",
+        "colors": [
+            "#00FF99",
+            "#00FFB3",
+            "#00FFCC",
+            "#00FFE6",
+            "#00FFFF"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Blushing Sunset",
+        "colors": [
+            "#FF6F61",
+            "#FF8172",
+            "#FF937F",
+            "#FFA48C",
+            "#FFB59A"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Neon Fusion",
+        "colors": [
+            "#FF00AA",
+            "#E600A0",
+            "#CC0096",
+            "#B3008C",
+            "#990082"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Royal Velvet",
+        "colors": [
+            "#4B0082",
+            "#51288B",
+            "#582E94",
+            "#5F349D",
+            "#663AA6"
+        ],
+        "category": "Retro"
+    },
+    {
+        "name": "Sunlit Grove",
+        "colors": [
+            "#DFFFD6",
+            "#D0FDC4",
+            "#C0F9B2",
+            "#B0F6A0",
+            "#A0F28E"
+        ],
+        "category": "Spring"
+    },
+    {
+        "name": "Frosty Dawn",
+        "colors": [
+            "#E0F7FA",
+            "#D1EEF5",
+            "#C2E5F0",
+            "#B3DDFB",
+            "#A4D4F6"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Radiant Spectrum",
+        "colors": [
+            "#FF0000",
+            "#FF7F00",
+            "#FFFF00",
+            "#00FF00",
+            "#0000FF"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Urban Slate",
+        "colors": [
+            "#2C3E50",
+            "#34495E",
+            "#3D566E",
+            "#455D7E",
+            "#4E647E"
+        ],
+        "category": "Corporate"
+    },
+    {
+        "name": "Pastel Breeze",
+        "colors": [
+            "#D0E8F2",
+            "#C2E0ED",
+            "#B4D8E8",
+            "#A6D0E3",
+            "#98C8DE"
+        ],
+        "category": "Pastel"
+    },
+    {
+        "name": "Tangerine Twist",
+        "colors": [
+            "#FF8C00",
+            "#FFA500",
+            "#FFB700",
+            "#FFCC33",
+            "#FFD966"
+        ],
+        "category": "Summer"
+    },
+    {
+        "name": "Emerald Isle",
+        "colors": [
+            "#008000",
+            "#009900",
+            "#00B200",
+            "#00CC00",
+            "#00E500"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Icy Aurora",
+        "colors": [
+            "#DDEEFF",
+            "#CCDDEE",
+            "#BBCCDD",
+            "#AACCDD",
+            "#99BBCC"
+        ],
+        "category": "Winter"
+    },
+    {
+        "name": "Midnight Bloom",
+        "colors": [
+            "#0D0D0D",
+            "#1A1A1A",
+            "#262626",
+            "#333333",
+            "#404040"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Mystic River",
+        "colors": [
+            "#013A63",
+            "#024F7A",
+            "#03658F",
+            "#047AA4",
+            "#0590B9"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Sunset Reverie",
+        "colors": [
+            "#FF9A8D",
+            "#FFB38A",
+            "#FFCC87",
+            "#FFE587",
+            "#FFFF86"
+        ],
+        "category": "Autumn"
+    },
+    {
+        "name": "Cyber Night",
+        "colors": [
+            "#10002B",
+            "#240046",
+            "#3C096C",
+            "#5A189A",
+            "#7B2CBF"
+        ],
+        "category": "Neon"
+    },
+    {
+        "name": "Whispering Willow",
+        "colors": [
+            "#A8D5BA",
+            "#98CDAF",
+            "#88C4A4",
+            "#78BC99",
+            "#68B38E"
+        ],
+        "category": "Earthy"
+    },
+    {
+        "name": "Radiant Ripple",
+        "colors": [
+            "#00BFFF",
+            "#00C5FF",
+            "#00CCFF",
+            "#00D2FF",
+            "#00D9FF"
+        ],
+        "category": "Vibrant"
+    },
+    {
+        "name": "Serene Waters",
+        "colors": [
+            "#E0F7FA",
+            "#D0EAF5",
+            "#C0DEF0",
+            "#B0D2EB",
+            "#A0C6E6"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Lunar Eclipse",
+        "colors": [
+            "#222222",
+            "#2B2B2B",
+            "#333333",
+            "#3C3C3C",
+            "#444444"
+        ],
+        "category": "Monochrome"
+    },
+    {
+        "name": "Vibrant Verve",
+        "colors": [
+            "#FF1493",
+            "#FF2A9D",
+            "#FF3FA8",
+            "#FF54B2",
+            "#FF69BC"
+        ],
+        "category": "Trending"
+    },
+    {
+        "name": "Muted Mornings",
+        "colors": [
+            "#F5F5F5",
+            "#EAEAEA",
+            "#DFDFDF",
+            "#D4D4D4",
+            "#C9C9C9"
+        ],
+        "category": "Minimalist"
+    },
+    {
+        "name": "Cool Cascade II",
+        "colors": [
+            "#003366",
+            "#004080",
+            "#004C99",
+            "#0059B3",
+            "#0066CC"
+        ],
+        "category": "Cool"
+    },
+    {
+        "name": "Electric Dream",
+        "colors": [
+            "#FF00E1",
+            "#E600D4",
+            "#CC00C8",
+            "#B300BB",
+            "#9900AF"
+        ],
+        "category": "Neon"
     }
 ]
