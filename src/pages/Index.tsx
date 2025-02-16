@@ -4,6 +4,7 @@ import { Navbar } from "@/components/Navbar";
 import { ColorPalette } from "@/components/ColorPalette";
 
 const palettes = [
+  // Original palettes
   {
     name: "Sunset Vibes",
     colors: ["#FF6B6B", "#FFE66D", "#4ECDC4", "#45B7D1", "#2C3E50"],
@@ -19,24 +20,95 @@ const palettes = [
     colors: ["#FFE5E5", "#FFF1E6", "#F0F4EF", "#E6F4F1", "#EBE7FF"],
     category: "Pastel",
   },
+  // New Palettes
   {
-    name: "Ocean Depth",
-    colors: ["#05668D", "#028090", "#00A896", "#02C39A", "#F0F3BD"],
+    name: "Berry Blast",
+    colors: ["#FF0A54", "#FF477E", "#FF7096", "#FF85A1", "#FBB1BD"],
+    category: "Vibrant",
+  },
+  {
+    name: "Ocean Breeze",
+    colors: ["#005F73", "#0A9396", "#94D2BD", "#E9D8A6", "#EE9B00"],
     category: "Trending",
   },
   {
-    name: "Urban Night",
-    colors: ["#2B2D42", "#8D99AE", "#EDF2F4", "#EF233C", "#D90429"],
+    name: "Lavender Fields",
+    colors: ["#E0BBE4", "#957DAD", "#D291BC", "#FEC8D8", "#FFDFD3"],
+    category: "Pastel",
+  },
+  {
+    name: "Mint Fresh",
+    colors: ["#D4E09B", "#A6C36F", "#828C51", "#335145", "#1F2F16"],
+    category: "Earthy",
+  },
+  {
+    name: "Desert Night",
+    colors: ["#2D00F7", "#6A00F4", "#8900F2", "#A100F2", "#B100E8"],
     category: "Neon",
   },
   {
-    name: "Desert Sand",
-    colors: ["#E6B89C", "#EAD2AC", "#9CAFB7", "#4281A4", "#2E4057"],
+    name: "Coral Reef",
+    colors: ["#FF9F1C", "#FFBF69", "#CBF3F0", "#2EC4B6", "#FF4D6D"],
+    category: "Vibrant",
+  },
+  {
+    name: "Cotton Candy",
+    colors: ["#FFC4D6", "#FFE0E9", "#FFEFF4", "#D4F0F7", "#CCE9F0"],
+    category: "Pastel",
+  },
+  {
+    name: "Autumn Leaves",
+    colors: ["#8B4513", "#CD853F", "#DEB887", "#D2691E", "#A0522D"],
     category: "Earthy",
   },
+  {
+    name: "Cyber Punk",
+    colors: ["#FF00FF", "#00FFFF", "#FF3366", "#33FF33", "#FF6600"],
+    category: "Neon",
+  },
+  {
+    name: "Galaxy Dreams",
+    colors: ["#2E294E", "#541388", "#F1E9DA", "#FFD400", "#D90368"],
+    category: "Vibrant",
+  },
+  {
+    name: "Spring Garden",
+    colors: ["#E8F3D6", "#FCF9BE", "#FFDCA9", "#FAAB78", "#DC8686"],
+    category: "Pastel",
+  },
+  {
+    name: "Retro Wave",
+    colors: ["#FF71CE", "#01CDFE", "#05FFA1", "#B967FF", "#FFFB96"],
+    category: "Neon",
+  },
+  {
+    name: "Forest Dawn",
+    colors: ["#FFE1A8", "#E26D5C", "#723D46", "#472D30", "#2D1810"],
+    category: "Earthy",
+  },
+  {
+    name: "Summer Rain",
+    colors: ["#99E2B4", "#88D4AB", "#78C6A3", "#67B99A", "#56AB91"],
+    category: "Trending",
+  },
+  {
+    name: "Electric Night",
+    colors: ["#FF0099", "#00FF99", "#9900FF", "#FF9900", "#0099FF"],
+    category: "Neon",
+  },
+  {
+    name: "Arctic Frost",
+    colors: ["#E3F6F5", "#BAE8E8", "#93D3D3", "#6DB3B3", "#488B8F"],
+    category: "Pastel",
+  },
+  {
+    name: "Mountain Peak",
+    colors: ["#EFE6DD", "#CBC4BC", "#A89F96", "#857A70", "#625750"],
+    category: "Earthy",
+  }
 ];
 
-const categories = ["All", "Trending", "Pastel", "Neon", "Earthy"];
+const categories = ["All", "Trending", "Pastel", "Neon", "Earthy", "Vibrant"];
 
 const Index = () => {
   const [searchQuery, setSearchQuery] = useState("");
