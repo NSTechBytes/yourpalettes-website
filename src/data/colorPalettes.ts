@@ -1,4 +1,3 @@
-
 export const palettes = [
   {
     name: "Sunset Vibes",
@@ -267,5 +266,20 @@ export const palettes = [
   }
 ];
 
-export const categories = ["All", "Trending", "Pastel", "Neon", "Earthy", "Vibrant"];
-
+export const categories = [
+  "All", 
+  "Trending", 
+  "Pastel", 
+  "Neon", 
+  "Earthy", 
+  "Vibrant",
+  "Monochrome",
+  "Retro",
+  "Tropical",
+  "Autumn",
+  "Winter",
+  "Spring",
+  "Summer",
+  "Corporate",
+  "Minimalist"
+];
