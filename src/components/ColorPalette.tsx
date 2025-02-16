@@ -1,6 +1,7 @@
 
 import { useState } from "react";
 import { toast } from "sonner";
+import { Copy, Check } from "lucide-react";
 
 interface ColorPaletteProps {
   colors: string[];
@@ -9,6 +10,7 @@ interface ColorPaletteProps {
 
 export const ColorPalette = ({ colors, name }: ColorPaletteProps) => {
   const [copied, setCopied] = useState<string | null>(null);
+  const [hoveredColor, setHoveredColor] = useState<string | null>(null);
 
   const copyToClipboard = (color: string) => {
     navigator.clipboard.writeText(color);
@@ -23,10 +25,22 @@ export const ColorPalette = ({ colors, name }: ColorPaletteProps) => {
         {colors.map((color) => (
           <div
             key={color}
-            className="color-swatch"
+            className="color-swatch relative group"
             style={{ backgroundColor: color }}
             onClick={() => copyToClipboard(color)}
-          />
+            onMouseEnter={() => setHoveredColor(color)}
+            onMouseLeave={() => setHoveredColor(null)}
+          >
+            {hoveredColor === color && (
+              <div className="absolute inset-0 flex items-center justify-center bg-black/20 transition-opacity">
+                {copied === color ? (
+                  <Check className="w-5 h-5 text-white" />
+                ) : (
+                  <Copy className="w-5 h-5 text-white" />
+                )}
+              </div>
+            )}
+          </div>
         ))}
       </div>
       <div className="p-4 space-y-2">
