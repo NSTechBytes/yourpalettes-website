@@ -30,7 +30,7 @@ const palettes = [
   },
   {
     name: "Lavender Fields",
-    colors: ["#E0BBE4", "#957DAD", "#D291BC", "#FEC8D8", "#FFDFD3"],
+    colors: ["#E0BBE4", "#957DAD", "#D291BC", "#FEC8D8", "#FFD8A8"],
     category: "Pastel",
   },
   {
