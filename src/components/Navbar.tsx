@@ -11,7 +11,7 @@ export const Navbar = ({ onSearch }: NavbarProps) => {
     <nav className="sticky top-0 z-50 w-full backdrop-blur-lg border-b">
       <div className="container mx-auto px-4 py-3">
         <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-0 sm:justify-between">
-          <h1 className="text-2xl font-display font-bold">YourPallate</h1>
+          <h1 className="text-2xl font-display font-bold">YourPalettes</h1>
 
           <div className="flex items-center space-x-4">
             <div className="relative">
