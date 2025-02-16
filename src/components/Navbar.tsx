@@ -1,5 +1,5 @@
 
-import { Search } from "lucide-react";
+import { Search,Github } from "lucide-react";
 import { ThemeToggle } from "./ThemeToggle";
 
 interface NavbarProps {
@@ -23,6 +23,13 @@ export const Navbar = ({ onSearch }: NavbarProps) => {
                 onChange={(e) => onSearch(e.target.value)}
               />
             </div>
+            <a
+              href="https://github.com/NSTechBytes/yourpalettes-website"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Github className="h-5 w-5 text-muted-foreground" />
+            </a>
             <ThemeToggle />
           </div>
         </div>
