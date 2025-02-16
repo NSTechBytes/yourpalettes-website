@@ -30,25 +30,25 @@
   }
 
   .dark {
-    --background: 240 10% 4%;
-    --foreground: 0 0% 95%;
-    --card: 240 10% 8%;
-    --card-foreground: 0 0% 95%;
-    --popover: 240 10% 4%;
-    --popover-foreground: 0 0% 95%;
-    --primary: 0 0% 95%;
-    --primary-foreground: 240 10% 4%;
-    --secondary: 240 8% 12%;
-    --secondary-foreground: 0 0% 95%;
-    --muted: 240 8% 12%;
-    --muted-foreground: 240 5% 65%;
-    --accent: 240 8% 12%;
-    --accent-foreground: 0 0% 95%;
+    --background: 215 21% 11%;
+    --foreground: 210 18% 85%;
+    --card: 215 21% 13%;
+    --card-foreground: 210 18% 85%;
+    --popover: 215 21% 11%;
+    --popover-foreground: 210 18% 85%;
+    --primary: 210 18% 85%;
+    --primary-foreground: 215 21% 11%;
+    --secondary: 215 21% 15%;
+    --secondary-foreground: 210 18% 85%;
+    --muted: 215 21% 15%;
+    --muted-foreground: 217 19% 60%;
+    --accent: 215 21% 15%;
+    --accent-foreground: 210 18% 85%;
     --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 0 0% 95%;
-    --border: 240 8% 12%;
-    --input: 240 8% 12%;
-    --ring: 240 5% 84%;
+    --destructive-foreground: 210 18% 85%;
+    --border: 215 21% 15%;
+    --input: 215 21% 15%;
+    --ring: 216 20% 65%;
   }
 }
 
@@ -71,7 +71,7 @@
 }
 
 .palette-card {
-  @apply bg-card/50 backdrop-blur-sm rounded-lg overflow-hidden transition-all duration-300 hover:shadow-xl;
+  @apply bg-card/50 backdrop-blur-sm rounded-lg overflow-hidden transition-all duration-300 hover:shadow-xl border border-border/50;
 }
 
 .search-input {
