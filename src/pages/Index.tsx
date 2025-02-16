@@ -3,7 +3,6 @@ import { Navbar } from "@/components/Navbar";
 import { ColorPalette } from "@/components/ColorPalette";
 
 const palettes = [
-  // Original palettes
   {
     name: "Sunset Vibes",
     colors: ["#FF6B6B", "#FFE66D", "#4ECDC4", "#45B7D1", "#2C3E50"],
@@ -19,7 +18,6 @@ const palettes = [
     colors: ["#FFE5E5", "#FFF1E6", "#F0F4EF", "#E6F4F1", "#EBE7FF"],
     category: "Pastel",
   },
-  // Previous New Palettes
   {
     name: "Berry Blast",
     colors: ["#FF0A54", "#FF477E", "#FF7096", "#FF85A1", "#FBB1BD"],
@@ -105,7 +103,6 @@ const palettes = [
     colors: ["#EFE6DD", "#CBC4BC", "#A89F96", "#857A70", "#625750"],
     category: "Earthy",
   },
-  // Additional New Palettes
   {
     name: "Deep Sea",
     colors: ["#001F3F", "#003366", "#004080", "#0059B3", "#0073E6"],
@@ -155,6 +152,56 @@ const palettes = [
     name: "Neon Dream",
     colors: ["#FF1177", "#FF44AA", "#FF77DD", "#FFAAFF", "#FFDDFF"],
     category: "Neon",
+  },
+  {
+    name: "Royal Purple",
+    colors: ["#2C0735", "#3D1045", "#4F1556", "#611B67", "#732178"],
+    category: "Vibrant",
+  },
+  {
+    name: "Citrus Fresh",
+    colors: ["#FFD700", "#FFA500", "#FF8C00", "#FF7F50", "#FF6347"],
+    category: "Vibrant",
+  },
+  {
+    name: "Misty Morning",
+    colors: ["#E6E6FA", "#D8BFD8", "#DDA0DD", "#DA70D6", "#FF00FF"],
+    category: "Pastel",
+  },
+  {
+    name: "Urban Jungle",
+    colors: ["#355E3B", "#2E8B57", "#3CB371", "#90EE90", "#98FB98"],
+    category: "Earthy",
+  },
+  {
+    name: "Digital Wave",
+    colors: ["#00FF00", "#00FF33", "#00FF66", "#00FF99", "#00FFCC"],
+    category: "Neon",
+  },
+  {
+    name: "Desert Rose",
+    colors: ["#BC8F8F", "#C09999", "#C4A3A3", "#C8ADAD", "#CCB7B7"],
+    category: "Pastel",
+  },
+  {
+    name: "Ocean Depths",
+    colors: ["#000080", "#000099", "#0000B3", "#0000CC", "#0000E6"],
+    category: "Trending",
+  },
+  {
+    name: "Sakura Spring",
+    colors: ["#FFB7C5", "#FFB7D5", "#FFB7E5", "#FFB7F5", "#FFB7FF"],
+    category: "Pastel",
+  },
+  {
+    name: "Midnight Fire",
+    colors: ["#8B0000", "#A30000", "#BA0000", "#D10000", "#E80000"],
+    category: "Vibrant",
+  },
+  {
+    name: "Forest Whisper",
+    colors: ["#556B2F", "#6B8E23", "#808000", "#8FBC8F", "#9ACD32"],
+    category: "Earthy",
   }
 ];
 
