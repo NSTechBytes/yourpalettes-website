@@ -2,12 +2,12 @@
 
 **YourPalettes** is a collection of  **17,390 unique color palettes** , each with a distinct name. Whether you're a designer, developer, or artist, you can explore and download palettes in various formats to enhance your projects.
 
-🌐 **Live Website:** [YourPalettes](https://yourpalettes.pages.dev/) 
+🌐 **Live Website:** [YourPalettes](https://yourpalettes.pages.dev/)
 
 ## ✨ Features
 
 * 🔹 **17,390 Unique Color Palettes**
-* 🎨 Download in **SVG, CSS, PNG, and JSON** formats
+* 🎨 Download in **SVG, CSS, PNG, and PDF** formats
 * 📡 **Developer API** for easy integration
 * 🖌️ Perfect for designers, developers, and creatives
 
