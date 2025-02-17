@@ -18,7 +18,7 @@ YourPalettes allows you to download color palettes in multiple formats:
 * **SVG:** Scalable vector format
 * **CSS:** Ready-to-use styles
 * **PNG:** High-quality images
-* **JSON:** Data format for developers
+* **PDF:** Data format for developers
 
 ## 🚀 API Usage
 
